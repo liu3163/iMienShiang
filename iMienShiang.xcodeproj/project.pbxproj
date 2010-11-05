@@ -30,6 +30,7 @@
 		54934E44127DBAE000FD0C0D /* haarcascade_frontalface_default.xml in Resources */ = {isa = PBXBuildFile; fileRef = 54934E43127DBAE000FD0C0D /* haarcascade_frontalface_default.xml */; };
 		54A2F437127C6B0F00D43150 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 54A2F436127C6B0F00D43150 /* AudioToolbox.framework */; };
 		54A2F452127C6B2700D43150 /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 54A2F451127C6B2700D43150 /* Accelerate.framework */; };
+		54DE79471283A692009BD1B5 /* ims_wrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 54DE79461283A692009BD1B5 /* ims_wrapper.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -65,6 +66,8 @@
 		54934E43127DBAE000FD0C0D /* haarcascade_frontalface_default.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = haarcascade_frontalface_default.xml; sourceTree = "<group>"; };
 		54A2F436127C6B0F00D43150 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		54A2F451127C6B2700D43150 /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = System/Library/Frameworks/Accelerate.framework; sourceTree = SDKROOT; };
+		54DE79451283A692009BD1B5 /* ims_wrapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ims_wrapper.h; sourceTree = "<group>"; };
+		54DE79461283A692009BD1B5 /* ims_wrapper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ims_wrapper.m; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* iMienShiang-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "iMienShiang-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -116,6 +119,7 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				54DE79531283A6A3009BD1B5 /* IMS_WRAPPER */,
 				548B247F127E62FA00020E5C /* IMS */,
 				54934E15127DA6F300FD0C0D /* Libraries */,
 				080E96DDFE201D6D7F000001 /* Classes */,
@@ -180,6 +184,15 @@
 				54934E17127DA6F300FD0C0D /* libcxcore.a */,
 			);
 			name = Libraries;
+			sourceTree = "<group>";
+		};
+		54DE79531283A6A3009BD1B5 /* IMS_WRAPPER */ = {
+			isa = PBXGroup;
+			children = (
+				54DE79461283A692009BD1B5 /* ims_wrapper.m */,
+				54DE79451283A692009BD1B5 /* ims_wrapper.h */,
+			);
+			name = IMS_WRAPPER;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,6 +270,7 @@
 				5405292B1275B10900C9B3C2 /* photoAddingController.m in Sources */,
 				5489E32C127A630F0095083A /* analysisController.m in Sources */,
 				548B2484127E631A00020E5C /* ims.c in Sources */,
+				54DE79471283A692009BD1B5 /* ims_wrapper.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

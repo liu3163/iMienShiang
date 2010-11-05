@@ -1,0 +1,1362 @@
+TiMienShiang
+v7
+r0
+t310617802.297082
+cCheck dependencies
+cCpResource build/Debug-iphoneos/iMienShiang.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/Info.plist iMienShiang-Info.plist
+cCompileXIB /Users/hongliu/iMienShiang/MainWindow.xib
+cCompileXIB /Users/hongliu/iMienShiang/settingController.xib
+cCompileXIB /Users/hongliu/iMienShiang/raceSettingController.xib
+cCompileXIB /Users/hongliu/iMienShiang/ageSettingController.xib
+cCompileXIB /Users/hongliu/iMienShiang/photoAddingController.xib
+cCopyPNGFile /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/arrow.png arrow.png
+cCompileXIB /Users/hongliu/iMienShiang/Classes/analysisController.xib
+cCpResource build/Debug-iphoneos/iMienShiang.app/haarcascade_frontalface_default.xml haarcascade_frontalface_default.xml
+cProcessPCH /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-hdzpgknpiddnfodmwnnejxqjxmux/iMienShiang_Prefix.pch.gch iMienShiang_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-goniljcheytzosfdzeprnoztipbj/iMienShiang_Prefix.pch.gch iMienShiang_Prefix.pch normal armv6 c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-gwhpomkiehdwwiegdxkfryjrgccf/iMienShiang_Prefix.pch.gch iMienShiang_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-djbebgakylcmtkgemwixcxarjlll/iMienShiang_Prefix.pch.gch iMienShiang_Prefix.pch normal armv7 c com.apple.compilers.gcc.4_2
+cCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/main.o /Users/hongliu/iMienShiang/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/iMienShiangAppDelegate.o /Users/hongliu/iMienShiang/Classes/iMienShiangAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/settingController.o /Users/hongliu/iMienShiang/Classes/../settingController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/raceSettingController.o /Users/hongliu/iMienShiang/Classes/../raceSettingController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/ageSettingController.o /Users/hongliu/iMienShiang/Classes/../ageSettingController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/photoAddingController.o /Users/hongliu/iMienShiang/Classes/../photoAddingController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/analysisController.o /Users/hongliu/iMienShiang/Classes/analysisController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/ims.o /Users/hongliu/iMienShiang/ims.c normal armv6 c com.apple.compilers.gcc.4_2
+cCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/ims_wrapper.o /Users/hongliu/iMienShiang/ims_wrapper.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/main.o /Users/hongliu/iMienShiang/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/iMienShiangAppDelegate.o /Users/hongliu/iMienShiang/Classes/iMienShiangAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/settingController.o /Users/hongliu/iMienShiang/Classes/../settingController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/raceSettingController.o /Users/hongliu/iMienShiang/Classes/../raceSettingController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/ageSettingController.o /Users/hongliu/iMienShiang/Classes/../ageSettingController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/photoAddingController.o /Users/hongliu/iMienShiang/Classes/../photoAddingController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/analysisController.o /Users/hongliu/iMienShiang/Classes/analysisController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/ims.o /Users/hongliu/iMienShiang/ims.c normal armv7 c com.apple.compilers.gcc.4_2
+cCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/ims_wrapper.o /Users/hongliu/iMienShiang/ims_wrapper.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cProcessProductPackaging "/Users/hongliu/Library/MobileDevice/Provisioning Profiles/5A735E4A-122E-4673-8B90-58F4A001D2E5.mobileprovision" /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/embedded.mobileprovision
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang.xcent
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c000000004C5A49EB0000000000004180
+t1280985579
+s16768
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004C5A51EA000000000039EF90
+t1280987626
+s3796880
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/alloca.h
+c000000004C5790910000000000000588
+t1280807057
+s1416
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/assert.h
+c000000004C5790910000000000000DCB
+t1280807057
+s3531
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/math.h
+c000000004C57902B00000000000004F1
+t1280806955
+s1265
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/stdio.h
+c000000004C57909100000000000040AC
+t1280807057
+s16556
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/stdlib.h
+c000000004C5790910000000000002DF5
+t1280807057
+s11765
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/string.h
+c000000004C5790910000000000001731
+t1280807057
+s5937
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/lib/gcc/arm-apple-darwin10/4.2.1/include/float.h
+c000000004C44E63A0000000000001538
+t1279583802
+s5432
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/lib/gcc/arm-apple-darwin10/4.2.1/include/limits.h
+c000000004C44E63A0000000000000C7E
+t1279583802
+s3198
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/lib/gcc/arm-apple-darwin10/4.2.1/include/stdint.h
+c000000004C44E777000000000000190C
+t1279584119
+s6412
+
+N/Users/hongliu/Library/MobileDevice/Provisioning Profiles/5A735E4A-122E-4673-8B90-58F4A001D2E5.mobileprovision
+c000000004CBE41B90000000000001C3F
+t1287537081
+s7231
+
+N/Users/hongliu/iMienShiang/Classes/../ageSettingController.m
+c000000004CC8EF600000000000000AE9
+t1288236896
+s2793
+i"ageSettingController.h"
+
+N/Users/hongliu/iMienShiang/Classes/../photoAddingController.m
+c000000004CCA286E00000000000008E4
+t1288317038
+s2276
+i"photoAddingController.h"
+
+N/Users/hongliu/iMienShiang/Classes/../raceSettingController.m
+c000000004CC8EF64000000000000095D
+t1288236900
+s2397
+i"raceSettingController.h"
+
+N/Users/hongliu/iMienShiang/Classes/../settingController.h
+c000000004CCAC30800000000000003F9
+t1288356616
+s1017
+i<UIKit/UIKit.h>
+i"raceSettingController.h"
+i"ageSettingController.h"
+i"analysisController.h"
+
+N/Users/hongliu/iMienShiang/Classes/../settingController.m
+c000000004CCAC17A0000000000000B57
+t1288356218
+s2903
+i"settingController.h"
+
+N/Users/hongliu/iMienShiang/Classes/analysisController.h
+c000000004CD36EDE0000000000000A71
+t1288924894
+s2673
+i<UIKit/UIKit.h>
+i<opencv/cv.h>
+i"analysisController.h"
+
+N/Users/hongliu/iMienShiang/Classes/analysisController.m
+c000000004CD36EDE0000000000002DD4
+t1288924894
+s11732
+i"analysisController.h"
+
+N/Users/hongliu/iMienShiang/Classes/analysisController.xib
+c000000004CD36EDE00000000000090C6
+t1288924894
+s37062
+
+N/Users/hongliu/iMienShiang/Classes/iMienShiangAppDelegate.h
+c000000004CD36EED00000000000001D6
+t1288924909
+s470
+i<UIKit/UIKit.h>
+i"settingController.h"
+
+N/Users/hongliu/iMienShiang/Classes/iMienShiangAppDelegate.m
+c000000004CD36EED0000000000000A5E
+t1288924909
+s2654
+i"iMienShiangAppDelegate.h"
+
+N/Users/hongliu/iMienShiang/MainWindow.xib
+c000000004CC64758000000000000535B
+t1288062808
+s21339
+
+N/Users/hongliu/iMienShiang/ageSettingController.h
+c000000004CC8EFA00000000000000335
+t1288236960
+s821
+i<UIKit/UIKit.h>
+
+N/Users/hongliu/iMienShiang/ageSettingController.xib
+c000000004CC788FB0000000000005AA9
+t1288145147
+s23209
+
+N/Users/hongliu/iMienShiang/arrow.png
+c000000004CC4E9AA000000000000249E
+t1287973290
+s9374
+
+N/Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app
+t2
+s0
+
+N/Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app.dSYM
+t2
+s0
+
+N/Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/Info.plist
+t1288924998
+s738
+
+N/Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/MainWindow.nib
+t1288924998
+s1630
+
+N/Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/PkgInfo
+t1288924998
+s8
+
+N/Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/ResourceRules.plist
+t1288924998
+s485
+
+N/Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/ageSettingController.nib
+t1288924998
+s2442
+
+N/Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/analysisController.nib
+t1288924999
+s5108
+
+N/Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/arrow.png
+t1288924999
+s10573
+
+N/Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/embedded.mobileprovision
+t1288925002
+s7231
+
+N/Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/haarcascade_frontalface_default.xml
+t1288924999
+s1254733
+
+N/Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/iMienShiang
+t2
+s0
+
+N/Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/photoAddingController.nib
+t1288924999
+s3733
+
+N/Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/raceSettingController.nib
+t1288924998
+s2444
+
+N/Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/settingController.nib
+t1288924999
+s6853
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/ageSettingController.o
+t1288925001
+s46356
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/analysisController.o
+t1288925001
+s145328
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/iMienShiang
+t2
+s0
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/iMienShiang.LinkFileList
+c000000004CD36F460000000000000455
+t1288924998
+s1109
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/iMienShiangAppDelegate.o
+t1288925001
+s115244
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/ims.o
+t2
+s0
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/ims_wrapper.o
+t2
+s0
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/main.o
+t1288925001
+s6424
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/photoAddingController.o
+t1288925001
+s44956
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/raceSettingController.o
+t1288925001
+s47664
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/settingController.o
+t1288925001
+s117716
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/ageSettingController.o
+t1288925001
+s46076
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/analysisController.o
+t1288925002
+s139220
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/iMienShiang
+t2
+s0
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/iMienShiang.LinkFileList
+c000000004CD36F460000000000000455
+t1288924998
+s1109
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/iMienShiangAppDelegate.o
+t1288925002
+s110680
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/ims.o
+t2
+s0
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/ims_wrapper.o
+t2
+s0
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/main.o
+t1288925001
+s6408
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/photoAddingController.o
+t1288925002
+s44808
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/raceSettingController.o
+t1288925001
+s47444
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/settingController.o
+t1288925002
+s112980
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang.xcent
+t1288925002
+s420
+
+N/Users/hongliu/iMienShiang/haarcascade_frontalface_default.xml
+c000000004CBBAD22000000000013254D
+t1287367970
+s1254733
+
+N/Users/hongliu/iMienShiang/iMienShiang_Prefix.pch
+c000000004CC5791A00000000000000BF
+t1288010010
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/hongliu/iMienShiang/ims.c
+c000000004CD367EC0000000000000B1E
+t1288923116
+s2846
+i"ims.h"
+
+N/Users/hongliu/iMienShiang/ims.h
+c000000004CD367EC000000000000054D
+t1288923116
+s1357
+i<opencv/cv.h>
+
+N/Users/hongliu/iMienShiang/ims_wrapper.m
+c000000004CD367EC00000000000004FD
+t1288923116
+s1277
+i<UIKit/UIKit.h>
+i<stdio.h>
+
+N/Users/hongliu/iMienShiang/libcv.a
+c000000004CBBAD2200000000003FC168
+t1287367970
+s4178280
+
+N/Users/hongliu/iMienShiang/libcxcore.a
+c000000004CBBAD2200000000002E3118
+t1287367970
+s3027224
+
+N/Users/hongliu/iMienShiang/main.m
+c000000004CC5791A000000000000016A
+t1288010010
+s362
+i<UIKit/UIKit.h>
+
+N/Users/hongliu/iMienShiang/photoAddingController.h
+c000000004CC97AD900000000000002C6
+t1288272601
+s710
+i<UIKit/UIKit.h>
+
+N/Users/hongliu/iMienShiang/photoAddingController.xib
+c000000004CC97B8200000000000065C1
+t1288272770
+s26049
+
+N/Users/hongliu/iMienShiang/raceSettingController.h
+c000000004CC8EF7E000000000000036A
+t1288236926
+s874
+i<UIKit/UIKit.h>
+
+N/Users/hongliu/iMienShiang/raceSettingController.xib
+c000000004CC77C5C0000000000005A8D
+t1288141916
+s23181
+
+N/Users/hongliu/iMienShiang/settingController.h
+c000000004CCAC30800000000000003F9
+t1288356616
+s1017
+i<UIKit/UIKit.h>
+i"raceSettingController.h"
+i"ageSettingController.h"
+i"analysisController.h"
+
+N/Users/hongliu/iMienShiang/settingController.xib
+c000000004CC8F02A0000000000009D40
+t1288237098
+s40256
+
+N/Users/hongliu/iphone_opencv_test/opencv_device/include/opencv/cv.h
+c000000004CBBAD220000000000011ABF
+t1287367970
+s72383
+i<chdl.h>
+i"cxcore.h"
+i"cvtypes.h"
+i"cv.hpp"
+i"cvcompat.h"
+
+N/Users/hongliu/iphone_opencv_test/opencv_device/include/opencv/cv.hpp
+c000000004CBBAD22000000000000B6EB
+t1287367970
+s46827
+
+N/Users/hongliu/iphone_opencv_test/opencv_device/include/opencv/cvcompat.h
+c000000004CBBAD220000000000009EF5
+t1287367970
+s40693
+i<string.h>
+
+N/Users/hongliu/iphone_opencv_test/opencv_device/include/opencv/cvtypes.h
+c000000004CBBAD220000000000002DD6
+t1287367970
+s11734
+i<assert.h>
+i<stdlib.h>
+
+N/Users/hongliu/iphone_opencv_test/opencv_device/include/opencv/cvver.h
+c000000004CBBAD2200000000000009E6
+t1287367970
+s2534
+
+N/Users/hongliu/iphone_opencv_test/opencv_device/include/opencv/cxcore.h
+c000000004CBBAD220000000000013000
+t1287367970
+s77824
+i"ipl.h"
+i"ipl/ipl.h"
+i"cxtypes.h"
+i"cxerror.h"
+i"cvver.h"
+i"cxcore.hpp"
+
+N/Users/hongliu/iphone_opencv_test/opencv_device/include/opencv/cxcore.hpp
+c000000004CBBAD2200000000000144B6
+t1287367970
+s83126
+i"cxmisc.h"
+i<algorithm>
+i<cmath>
+i<complex>
+i<map>
+i<new>
+i<string>
+i<vector>
+i"cxoperations.hpp"
+i"cxmat.hpp"
+i"cxflann.h"
+
+N/Users/hongliu/iphone_opencv_test/opencv_device/include/opencv/cxerror.h
+c000000004CBBAD22000000000000222E
+t1287367970
+s8750
+
+N/Users/hongliu/iphone_opencv_test/opencv_device/include/opencv/cxflann.h
+c000000004CBBAD220000000000001B18
+t1287367970
+s6936
+
+N/Users/hongliu/iphone_opencv_test/opencv_device/include/opencv/cxmat.hpp
+c000000004CBBAD220000000000025643
+t1287367970
+s153155
+i<limits.h>
+
+N/Users/hongliu/iphone_opencv_test/opencv_device/include/opencv/cxmisc.h
+c000000004CBBAD220000000000006D43
+t1287367970
+s27971
+i<limits.h>
+i<malloc.h>
+i<alloca.h>
+i<stdlib.h>
+
+N/Users/hongliu/iphone_opencv_test/opencv_device/include/opencv/cxoperations.hpp
+c000000004CBBAD220000000000016097
+t1287367970
+s90263
+i<string.h>
+i<limits.h>
+i<ext/atomicity.h>
+i<bits/atomicity.h>
+i"windows.h"
+
+N/Users/hongliu/iphone_opencv_test/opencv_device/include/opencv/cxtypes.h
+c000000004CBBAD22000000000000CF56
+t1287367970
+s53078
+i<assert.h>
+i<stdlib.h>
+i<string.h>
+i<float.h>
+i<stdint.h>
+i<intrin.h>
+i<emmintrin.h>
+i<fastmath.h>
+i<math.h>
+i<ipl.h>
+i<ipl/ipl.h>
+
+N/var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-djbebgakylcmtkgemwixcxarjlll/iMienShiang_Prefix.pch.gch
+t1288924999
+s1716452
+
+N/var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-etcbihqpatskmvaigfxxjxlqqqfa/iMienShiang_Prefix.pch.gch
+t1288142240
+s9831984
+
+N/var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-goniljcheytzosfdzeprnoztipbj/iMienShiang_Prefix.pch.gch
+t1288924999
+s1261796
+
+N/var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-gwhpomkiehdwwiegdxkfryjrgccf/iMienShiang_Prefix.pch.gch
+t1288925001
+s10294832
+
+N/var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-hdprkczdueqvsadfwxghrrutxuul/iMienShiang_Prefix.pch.gch
+t1288142240
+s10294832
+
+N/var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-hdzpgknpiddnfodmwnnejxqjxmux/iMienShiang_Prefix.pch.gch
+t1288925000
+s9831984
+
+NiMienShiang-Info.plist
+c000000004CC77D9F0000000000000373
+t1288142239
+s883
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310617798#310617798#0(0"0(0#1#0"8622692608#0"0#
+
+CCodeSign /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app
+s310440388.388379
+e310440389.365850
+r1
+xCodeSign
+x/Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app
+lSLF07#2@45"CodeSign build/Debug-iphoneos/iMienShiang.app310440388#310440389#0(0"0(0#0#63"/Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app8613144768#678"    cd /Users/hongliu/iMienShiang    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Hong Liu (A4KAS5RMA9)" --resource-rules=/Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/ResourceRules.plist --entitlements /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang.xcent /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app0#
+
+CCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/ageSettingController.o /Users/hongliu/iMienShiang/Classes/../ageSettingController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310617801.297973
+e310617801.397604
+r1
+xCompileC
+xbuild/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/ageSettingController.o
+x/Users/hongliu/iMienShiang/Classes/../ageSettingController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/hongliu/iMienShiang/Classes/../ageSettingController.m310617801#310617801#0(0"0(0#0#60"/Users/hongliu/iMienShiang/Classes/../ageSettingController.m8620418144#1835"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphoneos -I/Users/hongliu/iMienShiang/build/Debug-iphoneos/include -I/Users/hongliu/iphone_opencv_test/opencv_device/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources/armv6 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources -include /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-hdzpgknpiddnfodmwnnejxqjxmux/iMienShiang_Prefix.pch -c /Users/hongliu/iMienShiang/Classes/../ageSettingController.m -o /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/ageSettingController.o0#
+
+CCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/analysisController.o /Users/hongliu/iMienShiang/Classes/analysisController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310617801.397732
+e310617801.873905
+r1
+xCompileC
+xbuild/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/analysisController.o
+x/Users/hongliu/iMienShiang/Classes/analysisController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/hongliu/iMienShiang/Classes/analysisController.m: In function '-[analysisController imagePickerController:didFinishPickingImage:editingInfo:]':
+o/Users/hongliu/iMienShiang/Classes/analysisController.m:294: warning: implicit declaration of function 'ims_clip_left_image'
+o/Users/hongliu/iMienShiang/Classes/analysisController.m:294: warning: assignment makes pointer from integer without a cast
+o/Users/hongliu/iMienShiang/Classes/analysisController.m:299: warning: implicit declaration of function 'ims_clip_front_image'
+o/Users/hongliu/iMienShiang/Classes/analysisController.m:299: warning: assignment makes pointer from integer without a cast
+o/Users/hongliu/iMienShiang/Classes/analysisController.m:304: warning: implicit declaration of function 'ims_clip_right_image'
+o/Users/hongliu/iMienShiang/Classes/analysisController.m:304: warning: assignment makes pointer from integer without a cast
+o/Users/hongliu/iMienShiang/Classes/analysisController.m:311: warning: no '-initWithTitle:message:' method found
+o/Users/hongliu/iMienShiang/Classes/analysisController.m:311: warning: (Messages without a matching method signature
+o/Users/hongliu/iMienShiang/Classes/analysisController.m:311: warning: will be assumed to return 'id' and accept
+o/Users/hongliu/iMienShiang/Classes/analysisController.m:311: warning: '...' as arguments.)
+o/Users/hongliu/iMienShiang/Classes/analysisController.m:316: warning: implicit declaration of function 'UIImageFromIplImage'
+o/Users/hongliu/iMienShiang/Classes/analysisController.m:316: warning: passing argument 1 of 'scaleAndRotateImage:toView:' makes pointer from integer without a cast
+o/Users/hongliu/iMienShiang/Classes/analysisController.m:317: warning: passing argument 1 of 'cvReleaseImage' from incompatible pointer type
+lSLF07#2@63"Compile /Users/hongliu/iMienShiang/Classes/analysisController.m310617801#310617801#0(1757"/Users/hongliu/iMienShiang/Classes/analysisController.m: In function '-[analysisController imagePickerController:didFinishPickingImage:editingInfo:]':/Users/hongliu/iMienShiang/Classes/analysisController.m:294: warning: implicit declaration of function 'ims_clip_left_image'/Users/hongliu/iMienShiang/Classes/analysisController.m:294: warning: assignment makes pointer from integer without a cast/Users/hongliu/iMienShiang/Classes/analysisController.m:299: warning: implicit declaration of function 'ims_clip_front_image'/Users/hongliu/iMienShiang/Classes/analysisController.m:299: warning: assignment makes pointer from integer without a cast/Users/hongliu/iMienShiang/Classes/analysisController.m:304: warning: implicit declaration of function 'ims_clip_right_image'/Users/hongliu/iMienShiang/Classes/analysisController.m:304: warning: assignment makes pointer from integer without a cast/Users/hongliu/iMienShiang/Classes/analysisController.m:311: warning: no '-initWithTitle:message:' method found/Users/hongliu/iMienShiang/Classes/analysisController.m:311: warning: (Messages without a matching method signature/Users/hongliu/iMienShiang/Classes/analysisController.m:311: warning: will be assumed to return 'id' and accept/Users/hongliu/iMienShiang/Classes/analysisController.m:311: warning: '...' as arguments.)/Users/hongliu/iMienShiang/Classes/analysisController.m:316: warning: implicit declaration of function 'UIImageFromIplImage'/Users/hongliu/iMienShiang/Classes/analysisController.m:316: warning: passing argument 1 of 'scaleAndRotateImage:toView:' makes pointer from integer without a cast/Users/hongliu/iMienShiang/Classes/analysisController.m:317: warning: passing argument 1 of 'cvReleaseImage' from incompatible pointer type11(22@54"Implicit declaration of function 'ims_clip_left_image'310617801#151#125#0(6@55"/Users/hongliu/iMienShiang/Classes/analysisController.m310617694#294#0#294#0#36"implicit declaration of function '*'0(22@52"Assignment makes pointer from integer without a cast310617801#276#123#0(6@55"/Users/hongliu/iMienShiang/Classes/analysisController.m310617694#294#0#294#0#0"0(22@55"Implicit declaration of function 'ims_clip_front_image'310617801#399#126#0(6@55"/Users/hongliu/iMienShiang/Classes/analysisController.m310617694#299#0#299#0#36"implicit declaration of function '*'0(22@52"Assignment makes pointer from integer without a cast310617801#525#123#0(6@55"/Users/hongliu/iMienShiang/Classes/analysisController.m310617694#299#0#299#0#0"0(22@55"Implicit declaration of function 'ims_clip_right_image'310617801#648#126#0(6@55"/Users/hongliu/iMienShiang/Classes/analysisController.m310617694#304#0#304#0#36"implicit declaration of function '*'0(22@52"Assignment makes pointer from integer without a cast310617801#774#123#0(6@55"/Users/hongliu/iMienShiang/Classes/analysisController.m310617694#304#0#304#0#0"0(22@41"No '-initWithTitle:message:' method found310617801#897#112#0(6@55"/Users/hongliu/iMienShiang/Classes/analysisController.m310617694#311#0#311#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)310617801#1009#116#0(6@55"/Users/hongliu/iMienShiang/Classes/analysisController.m310617694#311#0#311#0#0"0(22@54"Implicit declaration of function 'UIImageFromIplImage'310617801#1328#125#0(6@55"/Users/hongliu/iMienShiang/Classes/analysisController.m310617694#316#0#316#0#36"implicit declaration of function '*'0(22@93"Passing argument 1 of 'scaleAndRotateImage:toView:' makes pointer from integer without a cast310617801#1453#164#0(6@55"/Users/hongliu/iMienShiang/Classes/analysisController.m310617694#316#0#316#0#0"0(22@69"Passing argument 1 of 'cvReleaseImage' from incompatible pointer type310617801#1617#140#0(6@55"/Users/hongliu/iMienShiang/Classes/analysisController.m310617694#317#0#317#0#56"passing argument * of '*' from incompatible pointer type0(0#0#55"/Users/hongliu/iMienShiang/Classes/analysisController.m8601093920#1828"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphoneos -I/Users/hongliu/iMienShiang/build/Debug-iphoneos/include -I/Users/hongliu/iphone_opencv_test/opencv_device/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources/armv6 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources -include /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-hdzpgknpiddnfodmwnnejxqjxmux/iMienShiang_Prefix.pch -c /Users/hongliu/iMienShiang/Classes/analysisController.m -o /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/analysisController.o0#
+
+CCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/iMienShiangAppDelegate.o /Users/hongliu/iMienShiang/Classes/iMienShiangAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310617801.027780
+e310617801.637804
+r1
+xCompileC
+xbuild/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/iMienShiangAppDelegate.o
+x/Users/hongliu/iMienShiang/Classes/iMienShiangAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/hongliu/iMienShiang/Classes/iMienShiangAppDelegate.m310617801#310617801#0(0"0(0#0#59"/Users/hongliu/iMienShiang/Classes/iMienShiangAppDelegate.m8602635808#1836"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphoneos -I/Users/hongliu/iMienShiang/build/Debug-iphoneos/include -I/Users/hongliu/iphone_opencv_test/opencv_device/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources/armv6 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources -include /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-hdzpgknpiddnfodmwnnejxqjxmux/iMienShiang_Prefix.pch -c /Users/hongliu/iMienShiang/Classes/iMienShiangAppDelegate.m -o /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/iMienShiangAppDelegate.o0#
+
+CCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/ims.o /Users/hongliu/iMienShiang/ims.c normal armv6 c com.apple.compilers.gcc.4_2
+s310617801.458183
+e310617801.802592
+r0
+xCompileC
+xbuild/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/ims.o
+x/Users/hongliu/iMienShiang/ims.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/hongliu/iMienShiang/ims.c: In function 'ims_clip_left_image':
+o/Users/hongliu/iMienShiang/ims.c:56: warning: control reaches end of non-void function
+o/Users/hongliu/iMienShiang/ims.c: In function 'ims_clip_right_image':
+o/Users/hongliu/iMienShiang/ims.c:60: warning: control reaches end of non-void function
+o/Users/hongliu/iMienShiang/ims.c: In function 'ims_clip_front_image':
+o/Users/hongliu/iMienShiang/ims.c:75: warning: implicit declaration of function 'ims_get_path'
+o/Users/hongliu/iMienShiang/ims.c:75: warning: assignment makes pointer from integer without a cast
+o/Users/hongliu/iMienShiang/ims.c:84: error: 'CGImageRef' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/ims.c:84: error: (Each undeclared identifier is reported only once
+o/Users/hongliu/iMienShiang/ims.c:84: error: for each function it appears in.)
+o/Users/hongliu/iMienShiang/ims.c:84: error: expected ';' before 'imageRef'
+o/Users/hongliu/iMienShiang/ims.c:85: error: 'CGColorSpaceRef' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/ims.c:85: error: expected ';' before 'colorSpace'
+o/Users/hongliu/iMienShiang/ims.c:86: error: 'CGContextRef' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/ims.c:86: error: expected ';' before 'contextRef'
+o/Users/hongliu/iMienShiang/ims.c:89: warning: implicit declaration of function 'CGContextDrawImage'
+o/Users/hongliu/iMienShiang/ims.c:89: error: 'contextRef' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/ims.c:89: warning: implicit declaration of function 'CGRectMake'
+o/Users/hongliu/iMienShiang/ims.c:89: error: 'frontImageView' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/ims.c:89: error: 'imageRef' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/ims.c:91: warning: implicit declaration of function 'CGContextSetLineWidth'
+o/Users/hongliu/iMienShiang/ims.c:92: warning: implicit declaration of function 'CGContextSetRGBStrokeColor'
+o/Users/hongliu/iMienShiang/ims.c:96: error: 'NSAutoreleasePool' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/ims.c:96: error: 'pool' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/ims.c:96: error: expected expression before '[' token
+o/Users/hongliu/iMienShiang/ims.c:96: error: expected ']' before 'init'
+o/Users/hongliu/iMienShiang/ims.c:100: error: 'CGRect' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/ims.c:100: error: expected ';' before 'face_rect'
+o/Users/hongliu/iMienShiang/ims.c:102: error: 'overlayImage' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/ims.c:103: error: 'face_rect' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/ims.c:105: warning: implicit declaration of function 'CGContextStrokeRect'
+o/Users/hongliu/iMienShiang/ims.c:108: error: expected expression before '[' token
+o/Users/hongliu/iMienShiang/ims.c:99: warning: unused variable 'cvrect'
+o/Users/hongliu/iMienShiang/ims.c:111: error: expected expression before '[' token
+o/Users/hongliu/iMienShiang/ims.c:111: error: 'UIImage' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/ims.c:112: warning: implicit declaration of function 'CGContextRelease'
+o/Users/hongliu/iMienShiang/ims.c:113: warning: implicit declaration of function 'CGColorSpaceRelease'
+o/Users/hongliu/iMienShiang/ims.c:113: error: 'colorSpace' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/ims.c:64: warning: unused variable 'scale'
+o/Users/hongliu/iMienShiang/ims.c:117: warning: control reaches end of non-void function
+o{standard input}:unknown:Undefined local symbol L_lrint$stub
+o{standard input}:unknown:Undefined local symbol L___fixdfsivfp$stub
+o{standard input}:unknown:Undefined local symbol L___floatsidfvfp$stub
+o{standard input}:unknown:Undefined local symbol L___gtdf2vfp$stub
+o{standard input}:unknown:Undefined local symbol L___ltdf2vfp$stub
+o{standard input}:unknown:Undefined local symbol L___muldi3$stub
+o{standard input}:unknown:Undefined local symbol L___floatunssidfvfp$stub
+o{standard input}:unknown:Undefined local symbol L___muldf3vfp$stub
+o{standard input}:unknown:Undefined local symbol L___assert_rtn$stub
+o{standard input}:unknown:Undefined local symbol L___extendsfdf2vfp$stub
+o{standard input}:unknown:Undefined local symbol L___truncdfsf2vfp$stub
+o{standard input}:unknown:Undefined local symbol L___floatsisfvfp$stub
+o{standard input}:unknown:Undefined local symbol L_cvFree_$stub
+o{standard input}:unknown:Undefined local symbol L_cvGetRows$stub
+o{standard input}:unknown:Undefined local symbol L_cvGetCols$stub
+o{standard input}:unknown:Undefined local symbol L_cvReleaseMat$stub
+o{standard input}:unknown:Undefined local symbol L_cvAddS$stub
+o{standard input}:unknown:Undefined local symbol L_cvSeqSlice$stub
+o{standard input}:unknown:Undefined local symbol L_cvSetAdd$stub
+o{standard input}:unknown:Undefined local symbol L_cvGetSeqElem$stub
+o{standard input}:unknown:Undefined local symbol L_cvEllipse$stub
+o{standard input}:unknown:Undefined local symbol L_cvInitFont$stub
+o{standard input}:unknown:Undefined local symbol L_cvGetFileNodeByName$stub
+o{standard input}:unknown:Undefined local symbol L_cvRead$stub
+o{standard input}:unknown:Undefined local symbol L_cvCreateSubdiv2D$stub
+o{standard input}:unknown:Undefined local symbol L_cvInitSubdivDelaunay2D$stub
+o{standard input}:unknown:Undefined local symbol L___subsf3vfp$stub
+o{standard input}:unknown:Undefined local symbol L___mulsf3vfp$stub
+o{standard input}:unknown:Undefined local symbol L_cvCalcArrHist$stub
+o{standard input}:unknown:Undefined local symbol L_cvAvg$stub
+o{standard input}:unknown:Undefined local symbol L_cvSum$stub
+o{standard input}:unknown:Undefined local symbol L_cvAvgSdv$stub
+o{standard input}:unknown:Undefined local symbol L_cvReshape$stub
+o{standard input}:unknown:Undefined local symbol L_cvPerspectiveTransform$stub
+o{standard input}:unknown:Undefined local symbol L_cvGetElemType$stub
+o{standard input}:unknown:Undefined local symbol L_cvColorToScalar$stub
+o{standard input}:unknown:Undefined local symbol L_cvSet$stub
+o{standard input}:unknown:Undefined local symbol L_cvError$stub
+o{standard input}:unknown:Undefined local symbol L_cvRandArr$stub
+o{standard input}:unknown:Undefined local symbol L_cvCartToPolar$stub
+o{standard input}:unknown:Undefined local symbol L_cvPow$stub
+o{standard input}:unknown:Undefined local symbol L_cvExp$stub
+o{standard input}:unknown:Undefined local symbol L_cvLog$stub
+o{standard input}:unknown:Undefined local symbol L_cvBoundingRect$stub
+o{standard input}:unknown:Undefined local symbol L_cvInvert$stub
+o{standard input}:unknown:Undefined local symbol L_cvConvexHull2$stub
+o{standard input}:unknown:Undefined local symbol L_cvMinAreaRect2$stub
+o{standard input}:unknown:Undefined local symbol L_cvBoxPoints$stub
+o{standard input}:unknown:Undefined local symbol L_cvFitLine$stub
+o{standard input}:unknown:Undefined local symbol L_cvFitEllipse2$stub
+o{standard input}:unknown:Undefined local symbol L_cvTransform$stub
+o{standard input}:unknown:Undefined local symbol L_cvHoughLines2$stub
+o{standard input}:unknown:Undefined local symbol L_cvCreateMat$stub
+o{standard input}:unknown:Undefined local symbol L_cvFindFundamentalMat$stub
+o{standard input}:unknown:Undefined local symbol L_cvFindChessboardCorners$stub
+o{standard input}:unknown:Undefined local symbol L_cvCalibrateCamera2$stub
+o{standard input}:unknown:Undefined local symbol L_cvFindExtrinsicCameraParams2$stub
+o{standard input}:unknown:Undefined local symbol L_cvRodrigues2$stub
+o{standard input}:unknown:Undefined local symbol L_cvProjectPoints2$stub
+o{standard input}:unknown:Undefined local symbol L_cvUndistort2$stub
+o{standard input}:unknown:Undefined local symbol L_cvGetRawData$stub
+o{standard input}:unknown:Undefined local symbol L_cvCalcEMD2$stub
+o{standard input}:unknown:Undefined local symbol L___memcpy_chk$stub
+o{standard input}:unknown:Undefined local symbol L_cvKMeans2$stub
+o{standard input}:unknown:Undefined local symbol L_cvCreateGraphScanner$stub
+o{standard input}:unknown:Undefined local symbol L_cvAlloc$stub
+o{standard input}:unknown:Undefined local symbol L_cvReleaseGraphScanner$stub
+o{standard input}:unknown:Undefined local symbol L___memset_chk$stub
+o{standard input}:unknown:Undefined local symbol L_cvLine$stub
+o{standard input}:unknown:Undefined local symbol L_cvCircle$stub
+o{standard input}:unknown:Undefined local symbol L_cvPolyLine$stub
+lSLF07#2@40"Compile /Users/hongliu/iMienShiang/ims.c310617801#310617801#0(8384"/Users/hongliu/iMienShiang/ims.c: In function 'ims_clip_left_image':/Users/hongliu/iMienShiang/ims.c:56: warning: control reaches end of non-void function/Users/hongliu/iMienShiang/ims.c: In function 'ims_clip_right_image':/Users/hongliu/iMienShiang/ims.c:60: warning: control reaches end of non-void function/Users/hongliu/iMienShiang/ims.c: In function 'ims_clip_front_image':/Users/hongliu/iMienShiang/ims.c:75: warning: implicit declaration of function 'ims_get_path'/Users/hongliu/iMienShiang/ims.c:75: warning: assignment makes pointer from integer without a cast/Users/hongliu/iMienShiang/ims.c:84: error: 'CGImageRef' undeclared (first use in this function)/Users/hongliu/iMienShiang/ims.c:84: error: (Each undeclared identifier is reported only once/Users/hongliu/iMienShiang/ims.c:84: error: for each function it appears in.)/Users/hongliu/iMienShiang/ims.c:84: error: expected ';' before 'imageRef'/Users/hongliu/iMienShiang/ims.c:85: error: 'CGColorSpaceRef' undeclared (first use in this function)/Users/hongliu/iMienShiang/ims.c:85: error: expected ';' before 'colorSpace'/Users/hongliu/iMienShiang/ims.c:86: error: 'CGContextRef' undeclared (first use in this function)/Users/hongliu/iMienShiang/ims.c:86: error: expected ';' before 'contextRef'/Users/hongliu/iMienShiang/ims.c:89: warning: implicit declaration of function 'CGContextDrawImage'/Users/hongliu/iMienShiang/ims.c:89: error: 'contextRef' undeclared (first use in this function)/Users/hongliu/iMienShiang/ims.c:89: warning: implicit declaration of function 'CGRectMake'/Users/hongliu/iMienShiang/ims.c:89: error: 'frontImageView' undeclared (first use in this function)/Users/hongliu/iMienShiang/ims.c:89: error: 'imageRef' undeclared (first use in this function)/Users/hongliu/iMienShiang/ims.c:91: warning: implicit declaration of function 'CGContextSetLineWidth'/Users/hongliu/iMienShiang/ims.c:92: warning: implicit declaration of function 'CGContextSetRGBStrokeColor'/Users/hongliu/iMienShiang/ims.c:96: error: 'NSAutoreleasePool' undeclared (first use in this function)/Users/hongliu/iMienShiang/ims.c:96: error: 'pool' undeclared (first use in this function)/Users/hongliu/iMienShiang/ims.c:96: error: expected expression before '[' token/Users/hongliu/iMienShiang/ims.c:96: error: expected ']' before 'init'/Users/hongliu/iMienShiang/ims.c:100: error: 'CGRect' undeclared (first use in this function)/Users/hongliu/iMienShiang/ims.c:100: error: expected ';' before 'face_rect'/Users/hongliu/iMienShiang/ims.c:102: error: 'overlayImage' undeclared (first use in this function)/Users/hongliu/iMienShiang/ims.c:103: error: 'face_rect' undeclared (first use in this function)/Users/hongliu/iMienShiang/ims.c:105: warning: implicit declaration of function 'CGContextStrokeRect'/Users/hongliu/iMienShiang/ims.c:108: error: expected expression before '[' token/Users/hongliu/iMienShiang/ims.c:99: warning: unused variable 'cvrect'/Users/hongliu/iMienShiang/ims.c:111: error: expected expression before '[' token/Users/hongliu/iMienShiang/ims.c:111: error: 'UIImage' undeclared (first use in this function)/Users/hongliu/iMienShiang/ims.c:112: warning: implicit declaration of function 'CGContextRelease'/Users/hongliu/iMienShiang/ims.c:113: warning: implicit declaration of function 'CGColorSpaceRelease'/Users/hongliu/iMienShiang/ims.c:113: error: 'colorSpace' undeclared (first use in this function)/Users/hongliu/iMienShiang/ims.c:64: warning: unused variable 'scale'/Users/hongliu/iMienShiang/ims.c:117: warning: control reaches end of non-void function{standard input}:unknown:Undefined local symbol L_lrint$stub{standard input}:unknown:Undefined local symbol L___fixdfsivfp$stub{standard input}:unknown:Undefined local symbol L___floatsidfvfp$stub{standard input}:unknown:Undefined local symbol L___gtdf2vfp$stub{standard input}:unknown:Undefined local symbol L___ltdf2vfp$stub{standard input}:unknown:Undefined local symbol L___muldi3$stub{standard input}:unknown:Undefined local symbol L___floatunssidfvfp$stub{standard input}:unknown:Undefined local symbol L___muldf3vfp$stub{standard input}:unknown:Undefined local symbol L___assert_rtn$stub{standard input}:unknown:Undefined local symbol L___extendsfdf2vfp$stub{standard input}:unknown:Undefined local symbol L___truncdfsf2vfp$stub{standard input}:unknown:Undefined local symbol L___floatsisfvfp$stub{standard input}:unknown:Undefined local symbol L_cvFree_$stub{standard input}:unknown:Undefined local symbol L_cvGetRows$stub{standard input}:unknown:Undefined local symbol L_cvGetCols$stub{standard input}:unknown:Undefined local symbol L_cvReleaseMat$stub{standard input}:unknown:Undefined local symbol L_cvAddS$stub{standard input}:unknown:Undefined local symbol L_cvSeqSlice$stub{standard input}:unknown:Undefined local symbol L_cvSetAdd$stub{standard input}:unknown:Undefined local symbol L_cvGetSeqElem$stub{standard input}:unknown:Undefined local symbol L_cvEllipse$stub{standard input}:unknown:Undefined local symbol L_cvInitFont$stub{standard input}:unknown:Undefined local symbol L_cvGetFileNodeByName$stub{standard input}:unknown:Undefined local symbol L_cvRead$stub{standard input}:unknown:Undefined local symbol L_cvCreateSubdiv2D$stub{standard input}:unknown:Undefined local symbol L_cvInitSubdivDelaunay2D$stub{standard input}:unknown:Undefined local symbol L___subsf3vfp$stub{standard input}:unknown:Undefined local symbol L___mulsf3vfp$stub{standard input}:unknown:Undefined local symbol L_cvCalcArrHist$stub{standard input}:unknown:Undefined local symbol L_cvAvg$stub{standard input}:unknown:Undefined local symbol L_cvSum$stub{standard input}:unknown:Undefined local symbol L_cvAvgSdv$stub{standard input}:unknown:Undefined local symbol L_cvReshape$stub{standard input}:unknown:Undefined local symbol L_cvPerspectiveTransform$stub{standard input}:unknown:Undefined local symbol L_cvGetElemType$stub{standard input}:unknown:Undefined local symbol L_cvColorToScalar$stub{standard input}:unknown:Undefined local symbol L_cvSet$stub{standard input}:unknown:Undefined local symbol L_cvError$stub{standard input}:unknown:Undefined local symbol L_cvRandArr$stub{standard input}:unknown:Undefined local symbol L_cvCartToPolar$stub{standard input}:unknown:Undefined local symbol L_cvPow$stub{standard input}:unknown:Undefined local symbol L_cvExp$stub{standard input}:unknown:Undefined local symbol L_cvLog$stub{standard input}:unknown:Undefined local symbol L_cvBoundingRect$stub{standard input}:unknown:Undefined local symbol L_cvInvert$stub{standard input}:unknown:Undefined local symbol L_cvConvexHull2$stub{standard input}:unknown:Undefined local symbol L_cvMinAreaRect2$stub{standard input}:unknown:Undefined local symbol L_cvBoxPoints$stub{standard input}:unknown:Undefined local symbol L_cvFitLine$stub{standard input}:unknown:Undefined local symbol L_cvFitEllipse2$stub{standard input}:unknown:Undefined local symbol L_cvTransform$stub{standard input}:unknown:Undefined local symbol L_cvHoughLines2$stub{standard input}:unknown:Undefined local symbol L_cvCreateMat$stub{standard input}:unknown:Undefined local symbol L_cvFindFundamentalMat$stub{standard input}:unknown:Undefined local symbol L_cvFindChessboardCorners$stub{standard input}:unknown:Undefined local symbol L_cvCalibrateCamera2$stub{standard input}:unknown:Undefined local symbol L_cvFindExtrinsicCameraParams2$stub{standard input}:unknown:Undefined local symbol L_cvRodrigues2$stub{standard input}:unknown:Undefined local symbol L_cvProjectPoints2$stub{standard input}:unknown:Undefined local symbol L_cvUndistort2$stub{standard input}:unknown:Undefined local symbol L_cvGetRawData$stub{standard input}:unknown:Undefined local symbol L_cvCalcEMD2$stub{standard input}:unknown:Undefined local symbol L___memcpy_chk$stub{standard input}:unknown:Undefined local symbol L_cvKMeans2$stub{standard input}:unknown:Undefined local symbol L_cvCreateGraphScanner$stub{standard input}:unknown:Undefined local symbol L_cvAlloc$stub{standard input}:unknown:Undefined local symbol L_cvReleaseGraphScanner$stub{standard input}:unknown:Undefined local symbol L___memset_chk$stub{standard input}:unknown:Undefined local symbol L_cvLine$stub{standard input}:unknown:Undefined local symbol L_cvCircle$stub{standard input}:unknown:Undefined local symbol L_cvPolyLine$stub35(22@40"Control reaches end of non-void function310617801#69#87#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#56#0#56#0#40"control reaches end of non-void function0(22@40"Control reaches end of non-void function310617801#226#87#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#60#0#60#0#40"control reaches end of non-void function0(22@47"Implicit declaration of function 'ims_get_path'310617801#383#94#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#75#0#75#0#36"implicit declaration of function '*'0(22@52"Assignment makes pointer from integer without a cast310617801#477#99#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#75#0#75#0#0"0(4@52"'CGImageRef' undeclared (first use in this function)310617801#576#97#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#84#0#84#0#43"'*' undeclared (first use in this function)0(4@30"Expected ';' before 'imageRef'310617801#845#75#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#84#0#84#0#19"expected * before *0(4@57"'CGColorSpaceRef' undeclared (first use in this function)310617801#920#102#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#85#0#85#0#43"'*' undeclared (first use in this function)0(4@32"Expected ';' before 'colorSpace'310617801#1022#77#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#85#0#85#0#19"expected * before *0(4@54"'CGContextRef' undeclared (first use in this function)310617801#1099#99#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#86#0#86#0#43"'*' undeclared (first use in this function)0(4@32"Expected ';' before 'contextRef'310617801#1198#77#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#86#0#86#0#19"expected * before *0(22@53"Implicit declaration of function 'CGContextDrawImage'310617801#1275#100#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#89#0#89#0#36"implicit declaration of function '*'0(4@52"'contextRef' undeclared (first use in this function)310617801#1375#97#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#89#0#89#0#43"'*' undeclared (first use in this function)0(22@45"Implicit declaration of function 'CGRectMake'310617801#1472#92#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#89#0#89#0#36"implicit declaration of function '*'0(4@56"'frontImageView' undeclared (first use in this function)310617801#1564#101#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#89#0#89#0#43"'*' undeclared (first use in this function)0(4@50"'imageRef' undeclared (first use in this function)310617801#1665#95#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#89#0#89#0#43"'*' undeclared (first use in this function)0(22@56"Implicit declaration of function 'CGContextSetLineWidth'310617801#1760#103#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#91#0#91#0#36"implicit declaration of function '*'0(22@61"Implicit declaration of function 'CGContextSetRGBStrokeColor'310617801#1863#108#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#92#0#92#0#36"implicit declaration of function '*'0(4@59"'NSAutoreleasePool' undeclared (first use in this function)310617801#1971#104#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#96#0#96#0#43"'*' undeclared (first use in this function)0(4@46"'pool' undeclared (first use in this function)310617801#2075#91#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#96#0#96#0#43"'*' undeclared (first use in this function)0(4@36"Expected expression before '[' token310617801#2166#81#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#96#0#96#0#19"expected * before *0(4@26"Expected ']' before 'init'310617801#2247#71#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#96#0#96#0#19"expected * before *0(4@48"'CGRect' undeclared (first use in this function)310617801#2318#94#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#100#0#100#0#43"'*' undeclared (first use in this function)0(4@31"Expected ';' before 'face_rect'310617801#2412#77#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#100#0#100#0#19"expected * before *0(4@54"'overlayImage' undeclared (first use in this function)310617801#2489#100#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#102#0#102#0#43"'*' undeclared (first use in this function)0(4@51"'face_rect' undeclared (first use in this function)310617801#2589#97#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#103#0#103#0#43"'*' undeclared (first use in this function)0(22@54"Implicit declaration of function 'CGContextStrokeRect'310617801#2686#102#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#105#0#105#0#36"implicit declaration of function '*'0(4@36"Expected expression before '[' token310617801#2788#82#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#108#0#108#0#19"expected * before *0(22@24"Unused variable 'cvrect'310617801#2870#71#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#99#0#99#0#19"unused variable '*'0(4@36"Expected expression before '[' token310617801#2941#82#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#111#0#111#0#19"expected * before *0(4@49"'UIImage' undeclared (first use in this function)310617801#3023#95#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#111#0#111#0#43"'*' undeclared (first use in this function)0(22@51"Implicit declaration of function 'CGContextRelease'310617801#3118#99#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#112#0#112#0#36"implicit declaration of function '*'0(22@54"Implicit declaration of function 'CGColorSpaceRelease'310617801#3217#102#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#113#0#113#0#36"implicit declaration of function '*'0(4@52"'colorSpace' undeclared (first use in this function)310617801#3319#98#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#113#0#113#0#43"'*' undeclared (first use in this function)0(22@23"Unused variable 'scale'310617801#3417#70#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#64#0#64#0#19"unused variable '*'0(22@40"Control reaches end of non-void function310617801#3487#88#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#117#0#117#0#40"control reaches end of non-void function0(0#0#32"/Users/hongliu/iMienShiang/ims.c8621011168#1780"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphoneos -I/Users/hongliu/iMienShiang/build/Debug-iphoneos/include -I/Users/hongliu/iphone_opencv_test/opencv_device/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources/armv6 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources -include /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-goniljcheytzosfdzeprnoztipbj/iMienShiang_Prefix.pch -c /Users/hongliu/iMienShiang/ims.c -o /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/ims.o1#
+
+CCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/ims_wrapper.o /Users/hongliu/iMienShiang/ims_wrapper.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310617801.638018
+e310617801.686016
+r0
+xCompileC
+xbuild/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/ims_wrapper.o
+x/Users/hongliu/iMienShiang/ims_wrapper.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/hongliu/iMienShiang/ims_wrapper.m:7: error: expected ';' before 'end'
+o/Users/hongliu/iMienShiang/ims_wrapper.m:48: warning: data definition has no type or storage class
+o/Users/hongliu/iMienShiang/ims_wrapper.m:48: warning: type defaults to 'int' in declaration of 'type'
+o/Users/hongliu/iMienShiang/ims_wrapper.m:48: error: 'file_name' undeclared here (not in a function)
+o/Users/hongliu/iMienShiang/ims_wrapper.m:48: error: 'len' undeclared here (not in a function)
+o/Users/hongliu/iMienShiang/ims_wrapper.m:48: warning: initialization makes integer from pointer without a cast
+o/Users/hongliu/iMienShiang/ims_wrapper.m:48: error: initializer element is not constant
+o/Users/hongliu/iMienShiang/ims_wrapper.m:48: error: expected ',' or ';' before ']' token
+o/Users/hongliu/iMienShiang/ims_wrapper.m:49: warning: data definition has no type or storage class
+o/Users/hongliu/iMienShiang/ims_wrapper.m:49: warning: type defaults to 'int' in declaration of 'path'
+o/Users/hongliu/iMienShiang/ims_wrapper.m:49: error: 'refToSelf' undeclared here (not in a function)
+o/Users/hongliu/iMienShiang/ims_wrapper.m:51: warning: data definition has no type or storage class
+o/Users/hongliu/iMienShiang/ims_wrapper.m:51: warning: type defaults to 'int' in declaration of 'cPath'
+o/Users/hongliu/iMienShiang/ims_wrapper.m:51: warning: invalid receiver type 'int'
+o/Users/hongliu/iMienShiang/ims_wrapper.m:52: warning: initialization makes integer from pointer without a cast
+o/Users/hongliu/iMienShiang/ims_wrapper.m:52: error: initializer element is not constant
+o/Users/hongliu/iMienShiang/ims_wrapper.m:52: error: expected ',' or ';' before '}' token
+o/Users/hongliu/iMienShiang/ims_wrapper.m:52: error: expected '@end' at end of input
+lSLF07#2@48"Compile /Users/hongliu/iMienShiang/ims_wrapper.m310617801#310617801#0(1717"/Users/hongliu/iMienShiang/ims_wrapper.m:7: error: expected ';' before 'end'/Users/hongliu/iMienShiang/ims_wrapper.m:48: warning: data definition has no type or storage class/Users/hongliu/iMienShiang/ims_wrapper.m:48: warning: type defaults to 'int' in declaration of 'type'/Users/hongliu/iMienShiang/ims_wrapper.m:48: error: 'file_name' undeclared here (not in a function)/Users/hongliu/iMienShiang/ims_wrapper.m:48: error: 'len' undeclared here (not in a function)/Users/hongliu/iMienShiang/ims_wrapper.m:48: warning: initialization makes integer from pointer without a cast/Users/hongliu/iMienShiang/ims_wrapper.m:48: error: initializer element is not constant/Users/hongliu/iMienShiang/ims_wrapper.m:48: error: expected ',' or ';' before ']' token/Users/hongliu/iMienShiang/ims_wrapper.m:49: warning: data definition has no type or storage class/Users/hongliu/iMienShiang/ims_wrapper.m:49: warning: type defaults to 'int' in declaration of 'path'/Users/hongliu/iMienShiang/ims_wrapper.m:49: error: 'refToSelf' undeclared here (not in a function)/Users/hongliu/iMienShiang/ims_wrapper.m:51: warning: data definition has no type or storage class/Users/hongliu/iMienShiang/ims_wrapper.m:51: warning: type defaults to 'int' in declaration of 'cPath'/Users/hongliu/iMienShiang/ims_wrapper.m:51: warning: invalid receiver type 'int'/Users/hongliu/iMienShiang/ims_wrapper.m:52: warning: initialization makes integer from pointer without a cast/Users/hongliu/iMienShiang/ims_wrapper.m:52: error: initializer element is not constant/Users/hongliu/iMienShiang/ims_wrapper.m:52: error: expected ',' or ';' before '}' token/Users/hongliu/iMienShiang/ims_wrapper.m:52: error: expected '@end' at end of input18(4@25"Expected ';' before 'end'310617801#0#77#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#7#0#7#0#19"expected * before *0(22@44"Data definition has no type or storage class310617801#77#99#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#48#0#48#0#44"data definition has no type or storage class0(22@47"Type defaults to 'int' in declaration of 'type'310617801#176#102#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#48#0#48#0#42"type defaults to '*' in declaration of '*'0(4@47"'file_name' undeclared here (not in a function)310617801#278#100#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#48#0#48#0#39"'*' undeclared here (not in a function)0(4@41"'len' undeclared here (not in a function)310617801#378#94#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#48#0#48#0#39"'*' undeclared here (not in a function)0(22@56"Initialization makes integer from pointer without a cast310617801#472#111#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#48#0#48#0#0"0(4@35"Initializer element is not constant310617801#583#88#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#48#0#48#0#35"initializer element is not constant0(4@36"Expected ',' or ';' before ']' token310617801#671#89#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#48#0#48#0#19"expected * before *0(22@44"Data definition has no type or storage class310617801#760#99#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#49#0#49#0#44"data definition has no type or storage class0(22@47"Type defaults to 'int' in declaration of 'path'310617801#859#102#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#49#0#49#0#42"type defaults to '*' in declaration of '*'0(4@47"'refToSelf' undeclared here (not in a function)310617801#961#100#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#49#0#49#0#39"'*' undeclared here (not in a function)0(22@44"Data definition has no type or storage class310617801#1061#99#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#51#0#51#0#44"data definition has no type or storage class0(22@48"Type defaults to 'int' in declaration of 'cPath'310617801#1160#103#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#51#0#51#0#42"type defaults to '*' in declaration of '*'0(22@27"Invalid receiver type 'int'310617801#1263#82#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#51#0#51#0#0"0(22@56"Initialization makes integer from pointer without a cast310617801#1345#111#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#52#0#52#0#0"0(4@35"Initializer element is not constant310617801#1456#88#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#52#0#52#0#35"initializer element is not constant0(4@36"Expected ',' or ';' before '}' token310617801#1544#89#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#52#0#52#0#19"expected * before *0(4@31"Expected '@end' at end of input310617801#1633#84#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#52#0#52#0#0"0(0#0#40"/Users/hongliu/iMienShiang/ims_wrapper.m8620866528#1806"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphoneos -I/Users/hongliu/iMienShiang/build/Debug-iphoneos/include -I/Users/hongliu/iphone_opencv_test/opencv_device/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources/armv6 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources -include /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-hdzpgknpiddnfodmwnnejxqjxmux/iMienShiang_Prefix.pch -c /Users/hongliu/iMienShiang/ims_wrapper.m -o /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/ims_wrapper.o1#
+
+CCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/main.o /Users/hongliu/iMienShiang/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310617801.026910
+e310617801.297843
+r1
+xCompileC
+xbuild/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/main.o
+x/Users/hongliu/iMienShiang/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Compile /Users/hongliu/iMienShiang/main.m310617801#310617801#0(0"0(0#0#33"/Users/hongliu/iMienShiang/main.m8622666560#1792"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphoneos -I/Users/hongliu/iMienShiang/build/Debug-iphoneos/include -I/Users/hongliu/iphone_opencv_test/opencv_device/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources/armv6 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources -include /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-hdzpgknpiddnfodmwnnejxqjxmux/iMienShiang_Prefix.pch -c /Users/hongliu/iMienShiang/main.m -o /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/photoAddingController.o /Users/hongliu/iMienShiang/Classes/../photoAddingController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310617801.338851
+e310617801.458041
+r1
+xCompileC
+xbuild/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/photoAddingController.o
+x/Users/hongliu/iMienShiang/Classes/../photoAddingController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/hongliu/iMienShiang/Classes/../photoAddingController.m310617801#310617801#0(0"0(0#0#61"/Users/hongliu/iMienShiang/Classes/../photoAddingController.m8618510080#1837"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphoneos -I/Users/hongliu/iMienShiang/build/Debug-iphoneos/include -I/Users/hongliu/iphone_opencv_test/opencv_device/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources/armv6 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources -include /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-hdzpgknpiddnfodmwnnejxqjxmux/iMienShiang_Prefix.pch -c /Users/hongliu/iMienShiang/Classes/../photoAddingController.m -o /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/photoAddingController.o0#
+
+CCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/raceSettingController.o /Users/hongliu/iMienShiang/Classes/../raceSettingController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310617801.029426
+e310617801.338722
+r1
+xCompileC
+xbuild/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/raceSettingController.o
+x/Users/hongliu/iMienShiang/Classes/../raceSettingController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/hongliu/iMienShiang/Classes/../raceSettingController.m310617801#310617801#0(0"0(0#0#61"/Users/hongliu/iMienShiang/Classes/../raceSettingController.m8621952800#1837"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphoneos -I/Users/hongliu/iMienShiang/build/Debug-iphoneos/include -I/Users/hongliu/iphone_opencv_test/opencv_device/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources/armv6 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources -include /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-hdzpgknpiddnfodmwnnejxqjxmux/iMienShiang_Prefix.pch -c /Users/hongliu/iMienShiang/Classes/../raceSettingController.m -o /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/raceSettingController.o0#
+
+CCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/settingController.o /Users/hongliu/iMienShiang/Classes/../settingController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310617801.028642
+e310617801.652576
+r1
+xCompileC
+xbuild/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/settingController.o
+x/Users/hongliu/iMienShiang/Classes/../settingController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/hongliu/iMienShiang/Classes/../settingController.m310617801#310617801#0(0"0(0#0#57"/Users/hongliu/iMienShiang/Classes/../settingController.m8604399424#1829"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphoneos -I/Users/hongliu/iMienShiang/build/Debug-iphoneos/include -I/Users/hongliu/iphone_opencv_test/opencv_device/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources/armv6 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources -include /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-hdzpgknpiddnfodmwnnejxqjxmux/iMienShiang_Prefix.pch -c /Users/hongliu/iMienShiang/Classes/../settingController.m -o /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/settingController.o0#
+
+CCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/ageSettingController.o /Users/hongliu/iMienShiang/Classes/../ageSettingController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310617801.874048
+e310617801.975616
+r1
+xCompileC
+xbuild/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/ageSettingController.o
+x/Users/hongliu/iMienShiang/Classes/../ageSettingController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/hongliu/iMienShiang/Classes/../ageSettingController.m310617801#310617802#0(0"0(0#0#60"/Users/hongliu/iMienShiang/Classes/../ageSettingController.m8621956768#1835"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphoneos -I/Users/hongliu/iMienShiang/build/Debug-iphoneos/include -I/Users/hongliu/iphone_opencv_test/opencv_device/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources/armv7 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources -include /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-gwhpomkiehdwwiegdxkfryjrgccf/iMienShiang_Prefix.pch -c /Users/hongliu/iMienShiang/Classes/../ageSettingController.m -o /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/ageSettingController.o0#
+
+CCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/analysisController.o /Users/hongliu/iMienShiang/Classes/analysisController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310617801.975758
+e310617802.275264
+r1
+xCompileC
+xbuild/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/analysisController.o
+x/Users/hongliu/iMienShiang/Classes/analysisController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/hongliu/iMienShiang/Classes/analysisController.m: In function '-[analysisController imagePickerController:didFinishPickingImage:editingInfo:]':
+o/Users/hongliu/iMienShiang/Classes/analysisController.m:294: warning: implicit declaration of function 'ims_clip_left_image'
+o/Users/hongliu/iMienShiang/Classes/analysisController.m:294: warning: assignment makes pointer from integer without a cast
+o/Users/hongliu/iMienShiang/Classes/analysisController.m:299: warning: implicit declaration of function 'ims_clip_front_image'
+o/Users/hongliu/iMienShiang/Classes/analysisController.m:299: warning: assignment makes pointer from integer without a cast
+o/Users/hongliu/iMienShiang/Classes/analysisController.m:304: warning: implicit declaration of function 'ims_clip_right_image'
+o/Users/hongliu/iMienShiang/Classes/analysisController.m:304: warning: assignment makes pointer from integer without a cast
+o/Users/hongliu/iMienShiang/Classes/analysisController.m:311: warning: no '-initWithTitle:message:' method found
+o/Users/hongliu/iMienShiang/Classes/analysisController.m:311: warning: (Messages without a matching method signature
+o/Users/hongliu/iMienShiang/Classes/analysisController.m:311: warning: will be assumed to return 'id' and accept
+o/Users/hongliu/iMienShiang/Classes/analysisController.m:311: warning: '...' as arguments.)
+o/Users/hongliu/iMienShiang/Classes/analysisController.m:316: warning: implicit declaration of function 'UIImageFromIplImage'
+o/Users/hongliu/iMienShiang/Classes/analysisController.m:316: warning: passing argument 1 of 'scaleAndRotateImage:toView:' makes pointer from integer without a cast
+o/Users/hongliu/iMienShiang/Classes/analysisController.m:317: warning: passing argument 1 of 'cvReleaseImage' from incompatible pointer type
+lSLF07#2@63"Compile /Users/hongliu/iMienShiang/Classes/analysisController.m310617801#310617802#0(1757"/Users/hongliu/iMienShiang/Classes/analysisController.m: In function '-[analysisController imagePickerController:didFinishPickingImage:editingInfo:]':/Users/hongliu/iMienShiang/Classes/analysisController.m:294: warning: implicit declaration of function 'ims_clip_left_image'/Users/hongliu/iMienShiang/Classes/analysisController.m:294: warning: assignment makes pointer from integer without a cast/Users/hongliu/iMienShiang/Classes/analysisController.m:299: warning: implicit declaration of function 'ims_clip_front_image'/Users/hongliu/iMienShiang/Classes/analysisController.m:299: warning: assignment makes pointer from integer without a cast/Users/hongliu/iMienShiang/Classes/analysisController.m:304: warning: implicit declaration of function 'ims_clip_right_image'/Users/hongliu/iMienShiang/Classes/analysisController.m:304: warning: assignment makes pointer from integer without a cast/Users/hongliu/iMienShiang/Classes/analysisController.m:311: warning: no '-initWithTitle:message:' method found/Users/hongliu/iMienShiang/Classes/analysisController.m:311: warning: (Messages without a matching method signature/Users/hongliu/iMienShiang/Classes/analysisController.m:311: warning: will be assumed to return 'id' and accept/Users/hongliu/iMienShiang/Classes/analysisController.m:311: warning: '...' as arguments.)/Users/hongliu/iMienShiang/Classes/analysisController.m:316: warning: implicit declaration of function 'UIImageFromIplImage'/Users/hongliu/iMienShiang/Classes/analysisController.m:316: warning: passing argument 1 of 'scaleAndRotateImage:toView:' makes pointer from integer without a cast/Users/hongliu/iMienShiang/Classes/analysisController.m:317: warning: passing argument 1 of 'cvReleaseImage' from incompatible pointer type11(22@54"Implicit declaration of function 'ims_clip_left_image'310617802#151#125#0(6@55"/Users/hongliu/iMienShiang/Classes/analysisController.m310617694#294#0#294#0#36"implicit declaration of function '*'0(22@52"Assignment makes pointer from integer without a cast310617802#276#123#0(6@55"/Users/hongliu/iMienShiang/Classes/analysisController.m310617694#294#0#294#0#0"0(22@55"Implicit declaration of function 'ims_clip_front_image'310617802#399#126#0(6@55"/Users/hongliu/iMienShiang/Classes/analysisController.m310617694#299#0#299#0#36"implicit declaration of function '*'0(22@52"Assignment makes pointer from integer without a cast310617802#525#123#0(6@55"/Users/hongliu/iMienShiang/Classes/analysisController.m310617694#299#0#299#0#0"0(22@55"Implicit declaration of function 'ims_clip_right_image'310617802#648#126#0(6@55"/Users/hongliu/iMienShiang/Classes/analysisController.m310617694#304#0#304#0#36"implicit declaration of function '*'0(22@52"Assignment makes pointer from integer without a cast310617802#774#123#0(6@55"/Users/hongliu/iMienShiang/Classes/analysisController.m310617694#304#0#304#0#0"0(22@41"No '-initWithTitle:message:' method found310617802#897#112#0(6@55"/Users/hongliu/iMienShiang/Classes/analysisController.m310617694#311#0#311#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)310617802#1009#116#0(6@55"/Users/hongliu/iMienShiang/Classes/analysisController.m310617694#311#0#311#0#0"0(22@54"Implicit declaration of function 'UIImageFromIplImage'310617802#1328#125#0(6@55"/Users/hongliu/iMienShiang/Classes/analysisController.m310617694#316#0#316#0#36"implicit declaration of function '*'0(22@93"Passing argument 1 of 'scaleAndRotateImage:toView:' makes pointer from integer without a cast310617802#1453#164#0(6@55"/Users/hongliu/iMienShiang/Classes/analysisController.m310617694#316#0#316#0#0"0(22@69"Passing argument 1 of 'cvReleaseImage' from incompatible pointer type310617802#1617#140#0(6@55"/Users/hongliu/iMienShiang/Classes/analysisController.m310617694#317#0#317#0#56"passing argument * of '*' from incompatible pointer type0(0#0#55"/Users/hongliu/iMienShiang/Classes/analysisController.m8620618560#1828"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphoneos -I/Users/hongliu/iMienShiang/build/Debug-iphoneos/include -I/Users/hongliu/iphone_opencv_test/opencv_device/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources/armv7 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources -include /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-gwhpomkiehdwwiegdxkfryjrgccf/iMienShiang_Prefix.pch -c /Users/hongliu/iMienShiang/Classes/analysisController.m -o /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/analysisController.o0#
+
+CCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/iMienShiangAppDelegate.o /Users/hongliu/iMienShiang/Classes/iMienShiangAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310617801.686409
+e310617802.076534
+r1
+xCompileC
+xbuild/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/iMienShiangAppDelegate.o
+x/Users/hongliu/iMienShiang/Classes/iMienShiangAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/hongliu/iMienShiang/Classes/iMienShiangAppDelegate.m310617801#310617802#0(0"0(0#0#59"/Users/hongliu/iMienShiang/Classes/iMienShiangAppDelegate.m8618717248#1836"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphoneos -I/Users/hongliu/iMienShiang/build/Debug-iphoneos/include -I/Users/hongliu/iphone_opencv_test/opencv_device/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources/armv7 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources -include /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-gwhpomkiehdwwiegdxkfryjrgccf/iMienShiang_Prefix.pch -c /Users/hongliu/iMienShiang/Classes/iMienShiangAppDelegate.m -o /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/iMienShiangAppDelegate.o0#
+
+CCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/ims.o /Users/hongliu/iMienShiang/ims.c normal armv7 c com.apple.compilers.gcc.4_2
+s310617802.013533
+e310617802.223678
+r0
+xCompileC
+xbuild/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/ims.o
+x/Users/hongliu/iMienShiang/ims.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/hongliu/iMienShiang/ims.c: In function 'ims_clip_left_image':
+o/Users/hongliu/iMienShiang/ims.c:56: warning: control reaches end of non-void function
+o/Users/hongliu/iMienShiang/ims.c: In function 'ims_clip_right_image':
+o/Users/hongliu/iMienShiang/ims.c:60: warning: control reaches end of non-void function
+o/Users/hongliu/iMienShiang/ims.c: In function 'ims_clip_front_image':
+o/Users/hongliu/iMienShiang/ims.c:75: warning: implicit declaration of function 'ims_get_path'
+o/Users/hongliu/iMienShiang/ims.c:75: warning: assignment makes pointer from integer without a cast
+o/Users/hongliu/iMienShiang/ims.c:84: error: 'CGImageRef' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/ims.c:84: error: (Each undeclared identifier is reported only once
+o/Users/hongliu/iMienShiang/ims.c:84: error: for each function it appears in.)
+o/Users/hongliu/iMienShiang/ims.c:84: error: expected ';' before 'imageRef'
+o/Users/hongliu/iMienShiang/ims.c:85: error: 'CGColorSpaceRef' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/ims.c:85: error: expected ';' before 'colorSpace'
+o/Users/hongliu/iMienShiang/ims.c:86: error: 'CGContextRef' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/ims.c:86: error: expected ';' before 'contextRef'
+o/Users/hongliu/iMienShiang/ims.c:89: warning: implicit declaration of function 'CGContextDrawImage'
+o/Users/hongliu/iMienShiang/ims.c:89: error: 'contextRef' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/ims.c:89: warning: implicit declaration of function 'CGRectMake'
+o/Users/hongliu/iMienShiang/ims.c:89: error: 'frontImageView' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/ims.c:89: error: 'imageRef' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/ims.c:91: warning: implicit declaration of function 'CGContextSetLineWidth'
+o/Users/hongliu/iMienShiang/ims.c:92: warning: implicit declaration of function 'CGContextSetRGBStrokeColor'
+o/Users/hongliu/iMienShiang/ims.c:96: error: 'NSAutoreleasePool' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/ims.c:96: error: 'pool' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/ims.c:96: error: expected expression before '[' token
+o/Users/hongliu/iMienShiang/ims.c:96: error: expected ']' before 'init'
+o/Users/hongliu/iMienShiang/ims.c:100: error: 'CGRect' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/ims.c:100: error: expected ';' before 'face_rect'
+o/Users/hongliu/iMienShiang/ims.c:102: error: 'overlayImage' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/ims.c:103: error: 'face_rect' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/ims.c:105: warning: implicit declaration of function 'CGContextStrokeRect'
+o/Users/hongliu/iMienShiang/ims.c:108: error: expected expression before '[' token
+o/Users/hongliu/iMienShiang/ims.c:99: warning: unused variable 'cvrect'
+o/Users/hongliu/iMienShiang/ims.c:111: error: expected expression before '[' token
+o/Users/hongliu/iMienShiang/ims.c:111: error: 'UIImage' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/ims.c:112: warning: implicit declaration of function 'CGContextRelease'
+o/Users/hongliu/iMienShiang/ims.c:113: warning: implicit declaration of function 'CGColorSpaceRelease'
+o/Users/hongliu/iMienShiang/ims.c:113: error: 'colorSpace' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/ims.c:64: warning: unused variable 'scale'
+o/Users/hongliu/iMienShiang/ims.c:117: warning: control reaches end of non-void function
+o{standard input}:unknown:Undefined local symbol L_lrint$stub
+o{standard input}:unknown:Undefined local symbol L___assert_rtn$stub
+o{standard input}:unknown:Undefined local symbol L_cvFree_$stub
+o{standard input}:unknown:Undefined local symbol L_cvGetRows$stub
+o{standard input}:unknown:Undefined local symbol L_cvGetCols$stub
+o{standard input}:unknown:Undefined local symbol L_cvReleaseMat$stub
+o{standard input}:unknown:Undefined local symbol L_cvAddS$stub
+o{standard input}:unknown:Undefined local symbol L_cvSeqSlice$stub
+o{standard input}:unknown:Undefined local symbol L_cvSetAdd$stub
+o{standard input}:unknown:Undefined local symbol L_cvGetSeqElem$stub
+o{standard input}:unknown:Undefined local symbol L_cvEllipse$stub
+o{standard input}:unknown:Undefined local symbol L_cvInitFont$stub
+o{standard input}:unknown:Undefined local symbol L_cvGetFileNodeByName$stub
+o{standard input}:unknown:Undefined local symbol L_cvRead$stub
+o{standard input}:unknown:Undefined local symbol L_cvCreateSubdiv2D$stub
+o{standard input}:unknown:Undefined local symbol L_cvInitSubdivDelaunay2D$stub
+o{standard input}:unknown:Undefined local symbol L_cvCalcArrHist$stub
+o{standard input}:unknown:Undefined local symbol L_cvAvg$stub
+o{standard input}:unknown:Undefined local symbol L_cvSum$stub
+o{standard input}:unknown:Undefined local symbol L_cvAvgSdv$stub
+o{standard input}:unknown:Undefined local symbol L_cvReshape$stub
+o{standard input}:unknown:Undefined local symbol L_cvPerspectiveTransform$stub
+o{standard input}:unknown:Undefined local symbol L_cvGetElemType$stub
+o{standard input}:unknown:Undefined local symbol L_cvColorToScalar$stub
+o{standard input}:unknown:Undefined local symbol L_cvSet$stub
+o{standard input}:unknown:Undefined local symbol L_cvError$stub
+o{standard input}:unknown:Undefined local symbol L_cvRandArr$stub
+o{standard input}:unknown:Undefined local symbol L_cvCartToPolar$stub
+o{standard input}:unknown:Undefined local symbol L_cvPow$stub
+o{standard input}:unknown:Undefined local symbol L_cvExp$stub
+o{standard input}:unknown:Undefined local symbol L_cvLog$stub
+o{standard input}:unknown:Undefined local symbol L_cvBoundingRect$stub
+o{standard input}:unknown:Undefined local symbol L_cvInvert$stub
+o{standard input}:unknown:Undefined local symbol L_cvConvexHull2$stub
+o{standard input}:unknown:Undefined local symbol L_cvMinAreaRect2$stub
+o{standard input}:unknown:Undefined local symbol L_cvBoxPoints$stub
+o{standard input}:unknown:Undefined local symbol L_cvFitLine$stub
+o{standard input}:unknown:Undefined local symbol L_cvFitEllipse2$stub
+o{standard input}:unknown:Undefined local symbol L_cvTransform$stub
+o{standard input}:unknown:Undefined local symbol L_cvHoughLines2$stub
+o{standard input}:unknown:Undefined local symbol L_cvCreateMat$stub
+o{standard input}:unknown:Undefined local symbol L_cvFindFundamentalMat$stub
+o{standard input}:unknown:Undefined local symbol L_cvFindChessboardCorners$stub
+o{standard input}:unknown:Undefined local symbol L_cvCalibrateCamera2$stub
+o{standard input}:unknown:Undefined local symbol L_cvFindExtrinsicCameraParams2$stub
+o{standard input}:unknown:Undefined local symbol L_cvRodrigues2$stub
+o{standard input}:unknown:Undefined local symbol L_cvProjectPoints2$stub
+o{standard input}:unknown:Undefined local symbol L_cvUndistort2$stub
+o{standard input}:unknown:Undefined local symbol L_cvGetRawData$stub
+o{standard input}:unknown:Undefined local symbol L_cvCalcEMD2$stub
+o{standard input}:unknown:Undefined local symbol L___memcpy_chk$stub
+o{standard input}:unknown:Undefined local symbol L_cvKMeans2$stub
+o{standard input}:unknown:Undefined local symbol L_cvCreateGraphScanner$stub
+o{standard input}:unknown:Undefined local symbol L_cvAlloc$stub
+o{standard input}:unknown:Undefined local symbol L_cvReleaseGraphScanner$stub
+o{standard input}:unknown:Undefined local symbol L___memset_chk$stub
+o{standard input}:unknown:Undefined local symbol L_cvLine$stub
+o{standard input}:unknown:Undefined local symbol L_cvCircle$stub
+o{standard input}:unknown:Undefined local symbol L_cvPolyLine$stub
+lSLF07#2@40"Compile /Users/hongliu/iMienShiang/ims.c310617802#310617802#0(7563"/Users/hongliu/iMienShiang/ims.c: In function 'ims_clip_left_image':/Users/hongliu/iMienShiang/ims.c:56: warning: control reaches end of non-void function/Users/hongliu/iMienShiang/ims.c: In function 'ims_clip_right_image':/Users/hongliu/iMienShiang/ims.c:60: warning: control reaches end of non-void function/Users/hongliu/iMienShiang/ims.c: In function 'ims_clip_front_image':/Users/hongliu/iMienShiang/ims.c:75: warning: implicit declaration of function 'ims_get_path'/Users/hongliu/iMienShiang/ims.c:75: warning: assignment makes pointer from integer without a cast/Users/hongliu/iMienShiang/ims.c:84: error: 'CGImageRef' undeclared (first use in this function)/Users/hongliu/iMienShiang/ims.c:84: error: (Each undeclared identifier is reported only once/Users/hongliu/iMienShiang/ims.c:84: error: for each function it appears in.)/Users/hongliu/iMienShiang/ims.c:84: error: expected ';' before 'imageRef'/Users/hongliu/iMienShiang/ims.c:85: error: 'CGColorSpaceRef' undeclared (first use in this function)/Users/hongliu/iMienShiang/ims.c:85: error: expected ';' before 'colorSpace'/Users/hongliu/iMienShiang/ims.c:86: error: 'CGContextRef' undeclared (first use in this function)/Users/hongliu/iMienShiang/ims.c:86: error: expected ';' before 'contextRef'/Users/hongliu/iMienShiang/ims.c:89: warning: implicit declaration of function 'CGContextDrawImage'/Users/hongliu/iMienShiang/ims.c:89: error: 'contextRef' undeclared (first use in this function)/Users/hongliu/iMienShiang/ims.c:89: warning: implicit declaration of function 'CGRectMake'/Users/hongliu/iMienShiang/ims.c:89: error: 'frontImageView' undeclared (first use in this function)/Users/hongliu/iMienShiang/ims.c:89: error: 'imageRef' undeclared (first use in this function)/Users/hongliu/iMienShiang/ims.c:91: warning: implicit declaration of function 'CGContextSetLineWidth'/Users/hongliu/iMienShiang/ims.c:92: warning: implicit declaration of function 'CGContextSetRGBStrokeColor'/Users/hongliu/iMienShiang/ims.c:96: error: 'NSAutoreleasePool' undeclared (first use in this function)/Users/hongliu/iMienShiang/ims.c:96: error: 'pool' undeclared (first use in this function)/Users/hongliu/iMienShiang/ims.c:96: error: expected expression before '[' token/Users/hongliu/iMienShiang/ims.c:96: error: expected ']' before 'init'/Users/hongliu/iMienShiang/ims.c:100: error: 'CGRect' undeclared (first use in this function)/Users/hongliu/iMienShiang/ims.c:100: error: expected ';' before 'face_rect'/Users/hongliu/iMienShiang/ims.c:102: error: 'overlayImage' undeclared (first use in this function)/Users/hongliu/iMienShiang/ims.c:103: error: 'face_rect' undeclared (first use in this function)/Users/hongliu/iMienShiang/ims.c:105: warning: implicit declaration of function 'CGContextStrokeRect'/Users/hongliu/iMienShiang/ims.c:108: error: expected expression before '[' token/Users/hongliu/iMienShiang/ims.c:99: warning: unused variable 'cvrect'/Users/hongliu/iMienShiang/ims.c:111: error: expected expression before '[' token/Users/hongliu/iMienShiang/ims.c:111: error: 'UIImage' undeclared (first use in this function)/Users/hongliu/iMienShiang/ims.c:112: warning: implicit declaration of function 'CGContextRelease'/Users/hongliu/iMienShiang/ims.c:113: warning: implicit declaration of function 'CGColorSpaceRelease'/Users/hongliu/iMienShiang/ims.c:113: error: 'colorSpace' undeclared (first use in this function)/Users/hongliu/iMienShiang/ims.c:64: warning: unused variable 'scale'/Users/hongliu/iMienShiang/ims.c:117: warning: control reaches end of non-void function{standard input}:unknown:Undefined local symbol L_lrint$stub{standard input}:unknown:Undefined local symbol L___assert_rtn$stub{standard input}:unknown:Undefined local symbol L_cvFree_$stub{standard input}:unknown:Undefined local symbol L_cvGetRows$stub{standard input}:unknown:Undefined local symbol L_cvGetCols$stub{standard input}:unknown:Undefined local symbol L_cvReleaseMat$stub{standard input}:unknown:Undefined local symbol L_cvAddS$stub{standard input}:unknown:Undefined local symbol L_cvSeqSlice$stub{standard input}:unknown:Undefined local symbol L_cvSetAdd$stub{standard input}:unknown:Undefined local symbol L_cvGetSeqElem$stub{standard input}:unknown:Undefined local symbol L_cvEllipse$stub{standard input}:unknown:Undefined local symbol L_cvInitFont$stub{standard input}:unknown:Undefined local symbol L_cvGetFileNodeByName$stub{standard input}:unknown:Undefined local symbol L_cvRead$stub{standard input}:unknown:Undefined local symbol L_cvCreateSubdiv2D$stub{standard input}:unknown:Undefined local symbol L_cvInitSubdivDelaunay2D$stub{standard input}:unknown:Undefined local symbol L_cvCalcArrHist$stub{standard input}:unknown:Undefined local symbol L_cvAvg$stub{standard input}:unknown:Undefined local symbol L_cvSum$stub{standard input}:unknown:Undefined local symbol L_cvAvgSdv$stub{standard input}:unknown:Undefined local symbol L_cvReshape$stub{standard input}:unknown:Undefined local symbol L_cvPerspectiveTransform$stub{standard input}:unknown:Undefined local symbol L_cvGetElemType$stub{standard input}:unknown:Undefined local symbol L_cvColorToScalar$stub{standard input}:unknown:Undefined local symbol L_cvSet$stub{standard input}:unknown:Undefined local symbol L_cvError$stub{standard input}:unknown:Undefined local symbol L_cvRandArr$stub{standard input}:unknown:Undefined local symbol L_cvCartToPolar$stub{standard input}:unknown:Undefined local symbol L_cvPow$stub{standard input}:unknown:Undefined local symbol L_cvExp$stub{standard input}:unknown:Undefined local symbol L_cvLog$stub{standard input}:unknown:Undefined local symbol L_cvBoundingRect$stub{standard input}:unknown:Undefined local symbol L_cvInvert$stub{standard input}:unknown:Undefined local symbol L_cvConvexHull2$stub{standard input}:unknown:Undefined local symbol L_cvMinAreaRect2$stub{standard input}:unknown:Undefined local symbol L_cvBoxPoints$stub{standard input}:unknown:Undefined local symbol L_cvFitLine$stub{standard input}:unknown:Undefined local symbol L_cvFitEllipse2$stub{standard input}:unknown:Undefined local symbol L_cvTransform$stub{standard input}:unknown:Undefined local symbol L_cvHoughLines2$stub{standard input}:unknown:Undefined local symbol L_cvCreateMat$stub{standard input}:unknown:Undefined local symbol L_cvFindFundamentalMat$stub{standard input}:unknown:Undefined local symbol L_cvFindChessboardCorners$stub{standard input}:unknown:Undefined local symbol L_cvCalibrateCamera2$stub{standard input}:unknown:Undefined local symbol L_cvFindExtrinsicCameraParams2$stub{standard input}:unknown:Undefined local symbol L_cvRodrigues2$stub{standard input}:unknown:Undefined local symbol L_cvProjectPoints2$stub{standard input}:unknown:Undefined local symbol L_cvUndistort2$stub{standard input}:unknown:Undefined local symbol L_cvGetRawData$stub{standard input}:unknown:Undefined local symbol L_cvCalcEMD2$stub{standard input}:unknown:Undefined local symbol L___memcpy_chk$stub{standard input}:unknown:Undefined local symbol L_cvKMeans2$stub{standard input}:unknown:Undefined local symbol L_cvCreateGraphScanner$stub{standard input}:unknown:Undefined local symbol L_cvAlloc$stub{standard input}:unknown:Undefined local symbol L_cvReleaseGraphScanner$stub{standard input}:unknown:Undefined local symbol L___memset_chk$stub{standard input}:unknown:Undefined local symbol L_cvLine$stub{standard input}:unknown:Undefined local symbol L_cvCircle$stub{standard input}:unknown:Undefined local symbol L_cvPolyLine$stub35(22@40"Control reaches end of non-void function310617802#69#87#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#56#0#56#0#40"control reaches end of non-void function0(22@40"Control reaches end of non-void function310617802#226#87#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#60#0#60#0#40"control reaches end of non-void function0(22@47"Implicit declaration of function 'ims_get_path'310617802#383#94#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#75#0#75#0#36"implicit declaration of function '*'0(22@52"Assignment makes pointer from integer without a cast310617802#477#99#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#75#0#75#0#0"0(4@52"'CGImageRef' undeclared (first use in this function)310617802#576#97#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#84#0#84#0#43"'*' undeclared (first use in this function)0(4@30"Expected ';' before 'imageRef'310617802#845#75#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#84#0#84#0#19"expected * before *0(4@57"'CGColorSpaceRef' undeclared (first use in this function)310617802#920#102#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#85#0#85#0#43"'*' undeclared (first use in this function)0(4@32"Expected ';' before 'colorSpace'310617802#1022#77#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#85#0#85#0#19"expected * before *0(4@54"'CGContextRef' undeclared (first use in this function)310617802#1099#99#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#86#0#86#0#43"'*' undeclared (first use in this function)0(4@32"Expected ';' before 'contextRef'310617802#1198#77#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#86#0#86#0#19"expected * before *0(22@53"Implicit declaration of function 'CGContextDrawImage'310617802#1275#100#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#89#0#89#0#36"implicit declaration of function '*'0(4@52"'contextRef' undeclared (first use in this function)310617802#1375#97#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#89#0#89#0#43"'*' undeclared (first use in this function)0(22@45"Implicit declaration of function 'CGRectMake'310617802#1472#92#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#89#0#89#0#36"implicit declaration of function '*'0(4@56"'frontImageView' undeclared (first use in this function)310617802#1564#101#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#89#0#89#0#43"'*' undeclared (first use in this function)0(4@50"'imageRef' undeclared (first use in this function)310617802#1665#95#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#89#0#89#0#43"'*' undeclared (first use in this function)0(22@56"Implicit declaration of function 'CGContextSetLineWidth'310617802#1760#103#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#91#0#91#0#36"implicit declaration of function '*'0(22@61"Implicit declaration of function 'CGContextSetRGBStrokeColor'310617802#1863#108#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#92#0#92#0#36"implicit declaration of function '*'0(4@59"'NSAutoreleasePool' undeclared (first use in this function)310617802#1971#104#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#96#0#96#0#43"'*' undeclared (first use in this function)0(4@46"'pool' undeclared (first use in this function)310617802#2075#91#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#96#0#96#0#43"'*' undeclared (first use in this function)0(4@36"Expected expression before '[' token310617802#2166#81#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#96#0#96#0#19"expected * before *0(4@26"Expected ']' before 'init'310617802#2247#71#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#96#0#96#0#19"expected * before *0(4@48"'CGRect' undeclared (first use in this function)310617802#2318#94#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#100#0#100#0#43"'*' undeclared (first use in this function)0(4@31"Expected ';' before 'face_rect'310617802#2412#77#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#100#0#100#0#19"expected * before *0(4@54"'overlayImage' undeclared (first use in this function)310617802#2489#100#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#102#0#102#0#43"'*' undeclared (first use in this function)0(4@51"'face_rect' undeclared (first use in this function)310617802#2589#97#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#103#0#103#0#43"'*' undeclared (first use in this function)0(22@54"Implicit declaration of function 'CGContextStrokeRect'310617802#2686#102#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#105#0#105#0#36"implicit declaration of function '*'0(4@36"Expected expression before '[' token310617802#2788#82#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#108#0#108#0#19"expected * before *0(22@24"Unused variable 'cvrect'310617802#2870#71#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#99#0#99#0#19"unused variable '*'0(4@36"Expected expression before '[' token310617802#2941#82#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#111#0#111#0#19"expected * before *0(4@49"'UIImage' undeclared (first use in this function)310617802#3023#95#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#111#0#111#0#43"'*' undeclared (first use in this function)0(22@51"Implicit declaration of function 'CGContextRelease'310617802#3118#99#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#112#0#112#0#36"implicit declaration of function '*'0(22@54"Implicit declaration of function 'CGColorSpaceRelease'310617802#3217#102#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#113#0#113#0#36"implicit declaration of function '*'0(4@52"'colorSpace' undeclared (first use in this function)310617802#3319#98#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#113#0#113#0#43"'*' undeclared (first use in this function)0(22@23"Unused variable 'scale'310617802#3417#70#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#64#0#64#0#19"unused variable '*'0(22@40"Control reaches end of non-void function310617802#3487#88#0(6@32"/Users/hongliu/iMienShiang/ims.c310615916#117#0#117#0#40"control reaches end of non-void function0(0#0#32"/Users/hongliu/iMienShiang/ims.c8620990336#1780"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphoneos -I/Users/hongliu/iMienShiang/build/Debug-iphoneos/include -I/Users/hongliu/iphone_opencv_test/opencv_device/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources/armv7 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources -include /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-djbebgakylcmtkgemwixcxarjlll/iMienShiang_Prefix.pch -c /Users/hongliu/iMienShiang/ims.c -o /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/ims.o1#
+
+CCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/ims_wrapper.o /Users/hongliu/iMienShiang/ims_wrapper.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310617802.076668
+e310617802.127509
+r0
+xCompileC
+xbuild/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/ims_wrapper.o
+x/Users/hongliu/iMienShiang/ims_wrapper.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/hongliu/iMienShiang/ims_wrapper.m:7: error: expected ';' before 'end'
+o/Users/hongliu/iMienShiang/ims_wrapper.m:48: warning: data definition has no type or storage class
+o/Users/hongliu/iMienShiang/ims_wrapper.m:48: warning: type defaults to 'int' in declaration of 'type'
+o/Users/hongliu/iMienShiang/ims_wrapper.m:48: error: 'file_name' undeclared here (not in a function)
+o/Users/hongliu/iMienShiang/ims_wrapper.m:48: error: 'len' undeclared here (not in a function)
+o/Users/hongliu/iMienShiang/ims_wrapper.m:48: warning: initialization makes integer from pointer without a cast
+o/Users/hongliu/iMienShiang/ims_wrapper.m:48: error: initializer element is not constant
+o/Users/hongliu/iMienShiang/ims_wrapper.m:48: error: expected ',' or ';' before ']' token
+o/Users/hongliu/iMienShiang/ims_wrapper.m:49: warning: data definition has no type or storage class
+o/Users/hongliu/iMienShiang/ims_wrapper.m:49: warning: type defaults to 'int' in declaration of 'path'
+o/Users/hongliu/iMienShiang/ims_wrapper.m:49: error: 'refToSelf' undeclared here (not in a function)
+o/Users/hongliu/iMienShiang/ims_wrapper.m:51: warning: data definition has no type or storage class
+o/Users/hongliu/iMienShiang/ims_wrapper.m:51: warning: type defaults to 'int' in declaration of 'cPath'
+o/Users/hongliu/iMienShiang/ims_wrapper.m:51: warning: invalid receiver type 'int'
+o/Users/hongliu/iMienShiang/ims_wrapper.m:52: warning: initialization makes integer from pointer without a cast
+o/Users/hongliu/iMienShiang/ims_wrapper.m:52: error: initializer element is not constant
+o/Users/hongliu/iMienShiang/ims_wrapper.m:52: error: expected ',' or ';' before '}' token
+o/Users/hongliu/iMienShiang/ims_wrapper.m:52: error: expected '@end' at end of input
+lSLF07#2@48"Compile /Users/hongliu/iMienShiang/ims_wrapper.m310617802#310617802#0(1717"/Users/hongliu/iMienShiang/ims_wrapper.m:7: error: expected ';' before 'end'/Users/hongliu/iMienShiang/ims_wrapper.m:48: warning: data definition has no type or storage class/Users/hongliu/iMienShiang/ims_wrapper.m:48: warning: type defaults to 'int' in declaration of 'type'/Users/hongliu/iMienShiang/ims_wrapper.m:48: error: 'file_name' undeclared here (not in a function)/Users/hongliu/iMienShiang/ims_wrapper.m:48: error: 'len' undeclared here (not in a function)/Users/hongliu/iMienShiang/ims_wrapper.m:48: warning: initialization makes integer from pointer without a cast/Users/hongliu/iMienShiang/ims_wrapper.m:48: error: initializer element is not constant/Users/hongliu/iMienShiang/ims_wrapper.m:48: error: expected ',' or ';' before ']' token/Users/hongliu/iMienShiang/ims_wrapper.m:49: warning: data definition has no type or storage class/Users/hongliu/iMienShiang/ims_wrapper.m:49: warning: type defaults to 'int' in declaration of 'path'/Users/hongliu/iMienShiang/ims_wrapper.m:49: error: 'refToSelf' undeclared here (not in a function)/Users/hongliu/iMienShiang/ims_wrapper.m:51: warning: data definition has no type or storage class/Users/hongliu/iMienShiang/ims_wrapper.m:51: warning: type defaults to 'int' in declaration of 'cPath'/Users/hongliu/iMienShiang/ims_wrapper.m:51: warning: invalid receiver type 'int'/Users/hongliu/iMienShiang/ims_wrapper.m:52: warning: initialization makes integer from pointer without a cast/Users/hongliu/iMienShiang/ims_wrapper.m:52: error: initializer element is not constant/Users/hongliu/iMienShiang/ims_wrapper.m:52: error: expected ',' or ';' before '}' token/Users/hongliu/iMienShiang/ims_wrapper.m:52: error: expected '@end' at end of input18(4@25"Expected ';' before 'end'310617802#0#77#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#7#0#7#0#19"expected * before *0(22@44"Data definition has no type or storage class310617802#77#99#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#48#0#48#0#44"data definition has no type or storage class0(22@47"Type defaults to 'int' in declaration of 'type'310617802#176#102#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#48#0#48#0#42"type defaults to '*' in declaration of '*'0(4@47"'file_name' undeclared here (not in a function)310617802#278#100#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#48#0#48#0#39"'*' undeclared here (not in a function)0(4@41"'len' undeclared here (not in a function)310617802#378#94#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#48#0#48#0#39"'*' undeclared here (not in a function)0(22@56"Initialization makes integer from pointer without a cast310617802#472#111#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#48#0#48#0#0"0(4@35"Initializer element is not constant310617802#583#88#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#48#0#48#0#35"initializer element is not constant0(4@36"Expected ',' or ';' before ']' token310617802#671#89#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#48#0#48#0#19"expected * before *0(22@44"Data definition has no type or storage class310617802#760#99#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#49#0#49#0#44"data definition has no type or storage class0(22@47"Type defaults to 'int' in declaration of 'path'310617802#859#102#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#49#0#49#0#42"type defaults to '*' in declaration of '*'0(4@47"'refToSelf' undeclared here (not in a function)310617802#961#100#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#49#0#49#0#39"'*' undeclared here (not in a function)0(22@44"Data definition has no type or storage class310617802#1061#99#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#51#0#51#0#44"data definition has no type or storage class0(22@48"Type defaults to 'int' in declaration of 'cPath'310617802#1160#103#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#51#0#51#0#42"type defaults to '*' in declaration of '*'0(22@27"Invalid receiver type 'int'310617802#1263#82#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#51#0#51#0#0"0(22@56"Initialization makes integer from pointer without a cast310617802#1345#111#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#52#0#52#0#0"0(4@35"Initializer element is not constant310617802#1456#88#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#52#0#52#0#35"initializer element is not constant0(4@36"Expected ',' or ';' before '}' token310617802#1544#89#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#52#0#52#0#19"expected * before *0(4@31"Expected '@end' at end of input310617802#1633#84#0(6@40"/Users/hongliu/iMienShiang/ims_wrapper.m310615916#52#0#52#0#0"0(0#0#40"/Users/hongliu/iMienShiang/ims_wrapper.m8621034688#1806"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphoneos -I/Users/hongliu/iMienShiang/build/Debug-iphoneos/include -I/Users/hongliu/iphone_opencv_test/opencv_device/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources/armv7 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources -include /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-gwhpomkiehdwwiegdxkfryjrgccf/iMienShiang_Prefix.pch -c /Users/hongliu/iMienShiang/ims_wrapper.m -o /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/ims_wrapper.o1#
+
+CCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/main.o /Users/hongliu/iMienShiang/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310617801.652717
+e310617801.732756
+r1
+xCompileC
+xbuild/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/main.o
+x/Users/hongliu/iMienShiang/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Compile /Users/hongliu/iMienShiang/main.m310617801#310617801#0(0"0(0#0#33"/Users/hongliu/iMienShiang/main.m8620440992#1792"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphoneos -I/Users/hongliu/iMienShiang/build/Debug-iphoneos/include -I/Users/hongliu/iphone_opencv_test/opencv_device/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources/armv7 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources -include /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-gwhpomkiehdwwiegdxkfryjrgccf/iMienShiang_Prefix.pch -c /Users/hongliu/iMienShiang/main.m -o /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/main.o0#
+
+CCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/photoAddingController.o /Users/hongliu/iMienShiang/Classes/../photoAddingController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310617801.913571
+e310617802.013408
+r1
+xCompileC
+xbuild/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/photoAddingController.o
+x/Users/hongliu/iMienShiang/Classes/../photoAddingController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/hongliu/iMienShiang/Classes/../photoAddingController.m310617801#310617802#0(0"0(0#0#61"/Users/hongliu/iMienShiang/Classes/../photoAddingController.m8602923168#1837"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphoneos -I/Users/hongliu/iMienShiang/build/Debug-iphoneos/include -I/Users/hongliu/iphone_opencv_test/opencv_device/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources/armv7 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources -include /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-gwhpomkiehdwwiegdxkfryjrgccf/iMienShiang_Prefix.pch -c /Users/hongliu/iMienShiang/Classes/../photoAddingController.m -o /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/photoAddingController.o0#
+
+CCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/raceSettingController.o /Users/hongliu/iMienShiang/Classes/../raceSettingController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310617801.802822
+e310617801.913433
+r1
+xCompileC
+xbuild/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/raceSettingController.o
+x/Users/hongliu/iMienShiang/Classes/../raceSettingController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/hongliu/iMienShiang/Classes/../raceSettingController.m310617801#310617801#0(0"0(0#0#61"/Users/hongliu/iMienShiang/Classes/../raceSettingController.m8622325248#1837"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphoneos -I/Users/hongliu/iMienShiang/build/Debug-iphoneos/include -I/Users/hongliu/iphone_opencv_test/opencv_device/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources/armv7 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources -include /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-gwhpomkiehdwwiegdxkfryjrgccf/iMienShiang_Prefix.pch -c /Users/hongliu/iMienShiang/Classes/../raceSettingController.m -o /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/raceSettingController.o0#
+
+CCompileC build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/settingController.o /Users/hongliu/iMienShiang/Classes/../settingController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310617801.732896
+e310617802.113090
+r1
+xCompileC
+xbuild/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/settingController.o
+x/Users/hongliu/iMienShiang/Classes/../settingController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/hongliu/iMienShiang/Classes/../settingController.m310617801#310617802#0(0"0(0#0#57"/Users/hongliu/iMienShiang/Classes/../settingController.m8606688512#1829"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphoneos -I/Users/hongliu/iMienShiang/build/Debug-iphoneos/include -I/Users/hongliu/iphone_opencv_test/opencv_device/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources/armv7 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources -include /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-gwhpomkiehdwwiegdxkfryjrgccf/iMienShiang_Prefix.pch -c /Users/hongliu/iMienShiang/Classes/../settingController.m -o /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/settingController.o0#
+
+CCompileXIB /Users/hongliu/iMienShiang/Classes/analysisController.xib
+s310617798.905059
+e310617799.506573
+r1
+xCompileXIB
+x/Users/hongliu/iMienShiang/Classes/analysisController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@41"CompileXIB Classes/analysisController.xib310617798#310617799#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#57"/Users/hongliu/iMienShiang/Classes/analysisController.xib8621926624#596"    cd /Users/hongliu/iMienShiang    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/analysisController.nib /Users/hongliu/iMienShiang/Classes/analysisController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/hongliu/iMienShiang/MainWindow.xib
+s310617798.363564
+e310617798.828545
+r1
+xCompileXIB
+x/Users/hongliu/iMienShiang/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib310617798#310617798#0(0"0(0#0#41"/Users/hongliu/iMienShiang/MainWindow.xib8603234560#572"    cd /Users/hongliu/iMienShiang    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/MainWindow.nib /Users/hongliu/iMienShiang/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/hongliu/iMienShiang/ageSettingController.xib
+s310617798.365786
+e310617798.900655
+r1
+xCompileXIB
+x/Users/hongliu/iMienShiang/ageSettingController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@35"CompileXIB ageSettingController.xib310617798#310617798#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#51"/Users/hongliu/iMienShiang/ageSettingController.xib8602601728#592"    cd /Users/hongliu/iMienShiang    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/ageSettingController.nib /Users/hongliu/iMienShiang/ageSettingController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/hongliu/iMienShiang/photoAddingController.xib
+s310617798.828676
+e310617799.327187
+r1
+xCompileXIB
+x/Users/hongliu/iMienShiang/photoAddingController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@36"CompileXIB photoAddingController.xib310617798#310617799#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#52"/Users/hongliu/iMienShiang/photoAddingController.xib8603460288#594"    cd /Users/hongliu/iMienShiang    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/photoAddingController.nib /Users/hongliu/iMienShiang/photoAddingController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/hongliu/iMienShiang/raceSettingController.xib
+s310617798.365029
+e310617798.904950
+r1
+xCompileXIB
+x/Users/hongliu/iMienShiang/raceSettingController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@36"CompileXIB raceSettingController.xib310617798#310617798#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#52"/Users/hongliu/iMienShiang/raceSettingController.xib8602817376#594"    cd /Users/hongliu/iMienShiang    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/raceSettingController.nib /Users/hongliu/iMienShiang/raceSettingController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/hongliu/iMienShiang/settingController.xib
+s310617798.364284
+e310617799.222467
+r1
+xCompileXIB
+x/Users/hongliu/iMienShiang/settingController.xib
+lSLF07#2@32"CompileXIB settingController.xib310617798#310617799#0(0"0(0#0#48"/Users/hongliu/iMienShiang/settingController.xib8603139680#586"    cd /Users/hongliu/iMienShiang    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/settingController.nib /Users/hongliu/iMienShiang/settingController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCopyPNGFile /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/arrow.png arrow.png
+s310617798.900775
+e310617799.593775
+r1
+xCopyPNGFile
+x/Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/arrow.png
+xarrow.png
+lSLF07#2@68"CopyPNGFile build/Debug-iphoneos/iMienShiang.app/arrow.png arrow.png310617798#310617799#0(0"0(0#0#36"/Users/hongliu/iMienShiang/arrow.png13229804949078112#588"    cd /Users/hongliu/iMienShiang    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/hongliu/iMienShiang/arrow.png /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/arrow.png0#
+
+CCpResource build/Debug-iphoneos/iMienShiang.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+s310617798.326630
+e310617798.363452
+r1
+xCpResource
+xbuild/Debug-iphoneos/iMienShiang.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist310617798#310617798#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist8299625237806534656#522"    cd /Users/hongliu/iMienShiang    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app0#
+
+CCpResource build/Debug-iphoneos/iMienShiang.app/haarcascade_frontalface_default.xml haarcascade_frontalface_default.xml
+s310617799.222585
+e310617799.537913
+r1
+xCpResource
+xbuild/Debug-iphoneos/iMienShiang.app/haarcascade_frontalface_default.xml
+xhaarcascade_frontalface_default.xml
+lSLF07#2@40"Copy haarcascade_frontalface_default.xml310617799#310617799#0(0"0(0#0#62"/Users/hongliu/iMienShiang/haarcascade_frontalface_default.xml8621291968#495"    cd /Users/hongliu/iMienShiang    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/hongliu/iMienShiang/haarcascade_frontalface_default.xml /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app0#
+
+CCreateUniversalBinary /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/iMienShiang normal "armv6 armv7"
+s310440388.195236
+e310440388.290289
+r1
+xCreateUniversalBinary
+x/Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/iMienShiang
+xnormal
+xarmv6 armv7
+lSLF07#2@91"CreateUniversalBinary build/Debug-iphoneos/iMienShiang.app/iMienShiang normal "armv6 armv7"310440388#310440388#0(0"0(0#0#38"/Users/hongliu/iMienShiang/armv6 armv78613786400#564"    cd /Users/hongliu/iMienShiang    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/lipo -create /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/iMienShiang /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/iMienShiang -output /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/iMienShiang0#
+
+CGenerateDSYMFile /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app.dSYM /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/iMienShiang
+s310440388.290400
+e310440388.377140
+r1
+xGenerateDSYMFile
+x/Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app.dSYM
+x/Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/iMienShiang
+lSLF07#2@107"GenerateDSYMFile build/Debug-iphoneos/iMienShiang.app.dSYM build/Debug-iphoneos/iMienShiang.app/iMienShiang310440388#310440388#0(0"0(0#0#75"/Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/iMienShiang8613798080#400"    cd /Users/hongliu/iMienShiang    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/iMienShiang -o /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app.dSYM0#
+
+CLd /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/iMienShiang normal armv6
+s310440387.549876
+e310440388.194325
+r1
+xLd
+x/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/iMienShiang
+xnormal
+xarmv6
+old: warning: directory '/Users/hongliu/iphone_opencv_test/opencv_device/lib
+o' following -L not found
+lSLF07#2@121"Link /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/iMienShiang310440387#310440388#0(101"ld: warning: directory '/Users/hongliu/iphone_opencv_test/opencv_device/lib' following -L not found1(22@62"Directory '/Users/hongliu/iphone_opencv_test/opencv_device/lib310440388#0#76#0(6@0"310440388#0#0#0#0#0"0(0#0#0"8612147520#1044"    cd /Users/hongliu/iMienShiang    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/hongliu/iMienShiang/build/Debug-iphoneos "-L/Users/hongliu/iphone_opencv_test/opencv_device/lib" -L/Users/hongliu/iMienShiang -F/Users/hongliu/iMienShiang/build/Debug-iphoneos -filelist /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/iMienShiang.LinkFileList -dead_strip -lstdc++ -lz -miphoneos-version-min=4.1 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -framework Accelerate -lcv -lcxcore -o /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv6/iMienShiang0#
+
+CLd /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/iMienShiang normal armv7
+s310440387.497056
+e310440388.195145
+r1
+xLd
+x/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/iMienShiang
+xnormal
+xarmv7
+old: warning: directory '/Users/hongliu/iphone_opencv_test/opencv_device/lib
+o' following -L not found
+lSLF07#2@121"Link /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/iMienShiang310440387#310440388#0(101"ld: warning: directory '/Users/hongliu/iphone_opencv_test/opencv_device/lib' following -L not found1(22@62"Directory '/Users/hongliu/iphone_opencv_test/opencv_device/lib310440388#0#76#0(6@0"310440388#0#0#0#0#0"0(0#0#0"8612613280#1044"    cd /Users/hongliu/iMienShiang    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/hongliu/iMienShiang/build/Debug-iphoneos "-L/Users/hongliu/iphone_opencv_test/opencv_device/lib" -L/Users/hongliu/iMienShiang -F/Users/hongliu/iMienShiang/build/Debug-iphoneos -filelist /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/iMienShiang.LinkFileList -dead_strip -lstdc++ -lz -miphoneos-version-min=4.1 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -framework Accelerate -lcv -lcxcore -o /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/Objects-normal/armv7/iMienShiang0#
+
+CProcessInfoPlistFile /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/Info.plist iMienShiang-Info.plist
+s310617798.342013
+e310617798.347263
+r1
+xProcessInfoPlistFile
+x/Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/Info.plist
+xiMienShiang-Info.plist
+lSLF07#2@30"Process iMienShiang-Info.plist310617798#310617798#0(0"0(0#0#49"/Users/hongliu/iMienShiang/iMienShiang-Info.plist8604032928#592"    cd /Users/hongliu/iMienShiang    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility iMienShiang-Info.plist -genpkginfo /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/ResourceRules.plist -o /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/Info.plist0#
+
+CProcessPCH /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-djbebgakylcmtkgemwixcxarjlll/iMienShiang_Prefix.pch.gch iMienShiang_Prefix.pch normal armv7 c com.apple.compilers.gcc.4_2
+s310617799.596374
+e310617800.061884
+r1
+xProcessPCH
+x/var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-djbebgakylcmtkgemwixcxarjlll/iMienShiang_Prefix.pch.gch
+xiMienShiang_Prefix.pch
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile iMienShiang_Prefix.pch310617799#310617800#0(0"0(0#0#49"/Users/hongliu/iMienShiang/iMienShiang_Prefix.pch8606208704#1688"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphoneos -I/Users/hongliu/iMienShiang/build/Debug-iphoneos/include -I/Users/hongliu/iphone_opencv_test/opencv_device/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources/armv7 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources -c /Users/hongliu/iMienShiang/iMienShiang_Prefix.pch -o /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-djbebgakylcmtkgemwixcxarjlll/iMienShiang_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-etcbihqpatskmvaigfxxjxlqqqfa/iMienShiang_Prefix.pch.gch iMienShiang_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s309835040.195990
+e309835040.833463
+r1
+xProcessPCH
+x/var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-etcbihqpatskmvaigfxxjxlqqqfa/iMienShiang_Prefix.pch.gch
+xiMienShiang_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile iMienShiang_Prefix.pch309835040#309835040#0(0"0(0#0#49"/Users/hongliu/iMienShiang/iMienShiang_Prefix.pch8619274880#1640"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphoneos -I/Users/hongliu/iMienShiang/build/Debug-iphoneos/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources/armv6 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources -c /Users/hongliu/iMienShiang/iMienShiang_Prefix.pch -o /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-etcbihqpatskmvaigfxxjxlqqqfa/iMienShiang_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-goniljcheytzosfdzeprnoztipbj/iMienShiang_Prefix.pch.gch iMienShiang_Prefix.pch normal armv6 c com.apple.compilers.gcc.4_2
+s310617799.594995
+e310617799.985267
+r1
+xProcessPCH
+x/var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-goniljcheytzosfdzeprnoztipbj/iMienShiang_Prefix.pch.gch
+xiMienShiang_Prefix.pch
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile iMienShiang_Prefix.pch310617799#310617799#0(0"0(0#0#49"/Users/hongliu/iMienShiang/iMienShiang_Prefix.pch8621278336#1688"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphoneos -I/Users/hongliu/iMienShiang/build/Debug-iphoneos/include -I/Users/hongliu/iphone_opencv_test/opencv_device/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources/armv6 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources -c /Users/hongliu/iMienShiang/iMienShiang_Prefix.pch -o /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-goniljcheytzosfdzeprnoztipbj/iMienShiang_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-gwhpomkiehdwwiegdxkfryjrgccf/iMienShiang_Prefix.pch.gch iMienShiang_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310617799.595683
+e310617801.026812
+r1
+xProcessPCH
+x/var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-gwhpomkiehdwwiegdxkfryjrgccf/iMienShiang_Prefix.pch.gch
+xiMienShiang_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile iMienShiang_Prefix.pch310617799#310617801#0(0"0(0#0#49"/Users/hongliu/iMienShiang/iMienShiang_Prefix.pch8619264736#1698"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphoneos -I/Users/hongliu/iMienShiang/build/Debug-iphoneos/include -I/Users/hongliu/iphone_opencv_test/opencv_device/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources/armv7 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources -c /Users/hongliu/iMienShiang/iMienShiang_Prefix.pch -o /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-gwhpomkiehdwwiegdxkfryjrgccf/iMienShiang_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-hdprkczdueqvsadfwxghrrutxuul/iMienShiang_Prefix.pch.gch iMienShiang_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s309835040.196738
+e309835040.816336
+r1
+xProcessPCH
+x/var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-hdprkczdueqvsadfwxghrrutxuul/iMienShiang_Prefix.pch.gch
+xiMienShiang_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile iMienShiang_Prefix.pch309835040#309835040#0(0"0(0#0#49"/Users/hongliu/iMienShiang/iMienShiang_Prefix.pch8619122464#1640"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphoneos -I/Users/hongliu/iMienShiang/build/Debug-iphoneos/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources/armv7 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources -c /Users/hongliu/iMienShiang/iMienShiang_Prefix.pch -o /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-hdprkczdueqvsadfwxghrrutxuul/iMienShiang_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-hdzpgknpiddnfodmwnnejxqjxmux/iMienShiang_Prefix.pch.gch iMienShiang_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310617799.594001
+e310617800.990253
+r1
+xProcessPCH
+x/var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-hdzpgknpiddnfodmwnnejxqjxmux/iMienShiang_Prefix.pch.gch
+xiMienShiang_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile iMienShiang_Prefix.pch310617799#310617800#0(0"0(0#0#49"/Users/hongliu/iMienShiang/iMienShiang_Prefix.pch8621906912#1698"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphoneos -I/Users/hongliu/iMienShiang/build/Debug-iphoneos/include -I/Users/hongliu/iphone_opencv_test/opencv_device/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources/armv6 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/DerivedSources -c /Users/hongliu/iMienShiang/iMienShiang_Prefix.pch -o /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-hdzpgknpiddnfodmwnnejxqjxmux/iMienShiang_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/hongliu/Library/MobileDevice/Provisioning Profiles/5A735E4A-122E-4673-8B90-58F4A001D2E5.mobileprovision" /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/embedded.mobileprovision
+s310617802.275401
+e310617802.288839
+r1
+xProcessProductPackaging
+x/Users/hongliu/Library/MobileDevice/Provisioning Profiles/5A735E4A-122E-4673-8B90-58F4A001D2E5.mobileprovision
+x/Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/embedded.mobileprovision
+lSLF07#2@198"ProcessProductPackaging "/Users/hongliu/Library/MobileDevice/Provisioning Profiles/5A735E4A-122E-4673-8B90-58F4A001D2E5.mobileprovision" build/Debug-iphoneos/iMienShiang.app/embedded.mobileprovision310617802#310617802#0(0"0(0#0#88"/Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/embedded.mobileprovision8621241984#467"    cd /Users/hongliu/iMienShiang    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    <com.apple.tools.product-pkg-utility> "/Users/hongliu/Library/MobileDevice/Provisioning Profiles/5A735E4A-122E-4673-8B90-58F4A001D2E5.mobileprovision" -o /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang.xcent
+s310617802.288895
+e310617802.297028
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+x/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang.xcent
+lSLF07#2@187"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang.xcent310617802#310617802#0(0"0(0#0#101"/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang.xcent8620844864#482"    cd /Users/hongliu/iMienShiang    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphoneos/iMienShiang.build/iMienShiang.xcent0#
+
+CTouch /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app
+s310440388.377381
+e310440388.388211
+r1
+xTouch
+x/Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app
+lSLF07#2@69"Touch /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app310440388#310440388#0(0"0(0#0#0"8613419360#306"    cd /Users/hongliu/iMienShiang    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/hongliu/iMienShiang/build/Debug-iphoneos/iMienShiang.app0#
+

@@ -1,0 +1,453 @@
+TiMienShiang
+v7
+r0
+t309705948.530449
+cCheck dependencies
+cProcessInfoPlistFile /Users/hongliu/iMienShiang/build/Debug-iphonesimulator/iMienShiang.app/Info.plist iMienShiang-Info.plist
+cCompileXIB /Users/hongliu/iMienShiang/MainWindow.xib
+cCompileXIB /Users/hongliu/iMienShiang/settingController.xib
+cCompileXIB /Users/hongliu/iMienShiang/Classes/../raceSettingController.xib
+cCompileXIB /Users/hongliu/iMienShiang/ageSettingController.xib
+cCompileXIB /Users/hongliu/iMienShiang/photoAddingController.xib
+cCpResource build/Debug-iphonesimulator/iMienShiang.app/arrow.png arrow.png
+cProcessPCH /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-bmjwbzgaomuxujgofjfqtuzykydp/iMienShiang_Prefix.pch.gch iMienShiang_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/main.o /Users/hongliu/iMienShiang/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/iMienShiangAppDelegate.o /Users/hongliu/iMienShiang/Classes/iMienShiangAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/settingController.o /Users/hongliu/iMienShiang/Classes/../settingController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/raceSettingController.o /Users/hongliu/iMienShiang/Classes/../raceSettingController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/ageSettingController.o /Users/hongliu/iMienShiang/Classes/../ageSettingController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/photoAddingController.o /Users/hongliu/iMienShiang/Classes/../photoAddingController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/hongliu/iMienShiang/Classes/../ageSettingController.m
+c000000004CC5796100000000000005A9
+t1288010081
+s1449
+i"ageSettingController.h"
+
+N/Users/hongliu/iMienShiang/Classes/../photoAddingController.m
+c000000004CC5798900000000000005AC
+t1288010121
+s1452
+i"photoAddingController.h"
+
+N/Users/hongliu/iMienShiang/Classes/../raceSettingController.m
+c000000004CC5795100000000000005AC
+t1288010065
+s1452
+i"raceSettingController.h"
+
+N/Users/hongliu/iMienShiang/Classes/../raceSettingController.xib
+c000000004CC57951000000000000187A
+t1288010065
+s6266
+
+N/Users/hongliu/iMienShiang/Classes/../settingController.m
+c000000004CC58558000000000000073D
+t1288013144
+s1853
+i"settingController.h"
+
+N/Users/hongliu/iMienShiang/Classes/iMienShiangAppDelegate.h
+c000000004CC5791A0000000000000150
+t1288010010
+s336
+i<UIKit/UIKit.h>
+
+N/Users/hongliu/iMienShiang/Classes/iMienShiangAppDelegate.m
+c000000004CC5791A00000000000009D6
+t1288010010
+s2518
+i"iMienShiangAppDelegate.h"
+
+N/Users/hongliu/iMienShiang/MainWindow.xib
+c000000004CC5791A000000000000211C
+t1288010010
+s8476
+
+N/Users/hongliu/iMienShiang/ageSettingController.h
+c000000004CC5796100000000000000ED
+t1288010081
+s237
+i<UIKit/UIKit.h>
+
+N/Users/hongliu/iMienShiang/ageSettingController.m
+c000000004CC5796100000000000005A9
+t1288010081
+s1449
+i"ageSettingController.h"
+
+N/Users/hongliu/iMienShiang/ageSettingController.xib
+c000000004CC579610000000000001877
+t1288010081
+s6263
+
+N/Users/hongliu/iMienShiang/arrow.png
+c000000004CC4E9AA000000000000249E
+t1287973290
+s9374
+
+N/Users/hongliu/iMienShiang/build/Debug-iphonesimulator/iMienShiang.app
+t2
+s0
+
+N/Users/hongliu/iMienShiang/build/Debug-iphonesimulator/iMienShiang.app.dSYM
+t2
+s0
+
+N/Users/hongliu/iMienShiang/build/Debug-iphonesimulator/iMienShiang.app/Info.plist
+t1288013146
+s607
+
+N/Users/hongliu/iMienShiang/build/Debug-iphonesimulator/iMienShiang.app/MainWindow.nib
+t1288013147
+s1535
+
+N/Users/hongliu/iMienShiang/build/Debug-iphonesimulator/iMienShiang.app/PkgInfo
+t1288013146
+s8
+
+N/Users/hongliu/iMienShiang/build/Debug-iphonesimulator/iMienShiang.app/ageSettingController.nib
+t1288013147
+s1231
+
+N/Users/hongliu/iMienShiang/build/Debug-iphonesimulator/iMienShiang.app/arrow.png
+t1288013147
+s9374
+
+N/Users/hongliu/iMienShiang/build/Debug-iphonesimulator/iMienShiang.app/iMienShiang
+t2
+s0
+
+N/Users/hongliu/iMienShiang/build/Debug-iphonesimulator/iMienShiang.app/photoAddingController.nib
+t1288013147
+s1231
+
+N/Users/hongliu/iMienShiang/build/Debug-iphonesimulator/iMienShiang.app/raceSettingController.nib
+t1288013147
+s1231
+
+N/Users/hongliu/iMienShiang/build/Debug-iphonesimulator/iMienShiang.app/settingController.nib
+t1288013147
+s5948
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/ageSettingController.o
+t1288013148
+s34612
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/iMienShiang.LinkFileList
+c000000004CC5855A0000000000000315
+t1288013146
+s789
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/iMienShiangAppDelegate.o
+t1288013148
+s46364
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/main.o
+t1288013148
+s6280
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/photoAddingController.o
+t1288013148
+s34636
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/raceSettingController.o
+t2
+s0
+
+N/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/settingController.o
+t2
+s0
+
+N/Users/hongliu/iMienShiang/iMienShiang_Prefix.pch
+c000000004CC5791A00000000000000BF
+t1288010010
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/hongliu/iMienShiang/main.m
+c000000004CC5791A000000000000016A
+t1288010010
+s362
+i<UIKit/UIKit.h>
+
+N/Users/hongliu/iMienShiang/photoAddingController.h
+c000000004CC5798900000000000000EF
+t1288010121
+s239
+i<UIKit/UIKit.h>
+
+N/Users/hongliu/iMienShiang/photoAddingController.m
+c000000004CC5798900000000000005AC
+t1288010121
+s1452
+i"photoAddingController.h"
+
+N/Users/hongliu/iMienShiang/photoAddingController.xib
+c000000004CC57989000000000000187A
+t1288010121
+s6266
+
+N/Users/hongliu/iMienShiang/raceSettingController.h
+c000000004CC5853200000000000001C8
+t1288013106
+s456
+i<UIKit/UIKit.h>
+
+N/Users/hongliu/iMienShiang/raceSettingController.m
+c000000004CC5795100000000000005AC
+t1288010065
+s1452
+i"raceSettingController.h"
+
+N/Users/hongliu/iMienShiang/raceSettingController.xib
+c000000004CC57951000000000000187A
+t1288010065
+s6266
+
+N/Users/hongliu/iMienShiang/settingController.h
+c000000004CC580AF0000000000000169
+t1288011951
+s361
+i<UIKit/UIKit.h>
+
+N/Users/hongliu/iMienShiang/settingController.m
+c000000004CC5793A00000000000005A0
+t1288010042
+s1440
+i"settingController.h"
+
+N/Users/hongliu/iMienShiang/settingController.xib
+c000000004CC57AE30000000000007F90
+t1288010467
+s32656
+
+N/var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-bmjwbzgaomuxujgofjfqtuzykydp/iMienShiang_Prefix.pch.gch
+t1288013148
+s15211536
+
+NiMienShiang-Info.plist
+c000000004CC5791A000000000000038D
+t1288010010
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309705946#309705946#0(0"0(0#1#0"32651522506817640#0"0#
+
+CCompileC build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/ageSettingController.o /Users/hongliu/iMienShiang/Classes/../ageSettingController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309705948.470919
+e309705948.530379
+r1
+xCompileC
+xbuild/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/ageSettingController.o
+x/Users/hongliu/iMienShiang/Classes/../ageSettingController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/hongliu/iMienShiang/Classes/../ageSettingController.m309705948#309705948#0(0"0(0#0#60"/Users/hongliu/iMienShiang/Classes/../ageSettingController.m8615253024#1967"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphonesimulator -I/Users/hongliu/iMienShiang/build/Debug-iphonesimulator/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/DerivedSources/i386 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/DerivedSources -include /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-bmjwbzgaomuxujgofjfqtuzykydp/iMienShiang_Prefix.pch -c /Users/hongliu/iMienShiang/Classes/../ageSettingController.m -o /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/ageSettingController.o0#
+
+CCompileC build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/ageSettingController.o /Users/hongliu/iMienShiang/ageSettingController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/iMienShiangAppDelegate.o /Users/hongliu/iMienShiang/Classes/iMienShiangAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309705948.345693
+e309705948.493399
+r1
+xCompileC
+xbuild/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/iMienShiangAppDelegate.o
+x/Users/hongliu/iMienShiang/Classes/iMienShiangAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/hongliu/iMienShiang/Classes/iMienShiangAppDelegate.m309705948#309705948#0(0"0(0#0#59"/Users/hongliu/iMienShiang/Classes/iMienShiangAppDelegate.m8616202592#1968"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphonesimulator -I/Users/hongliu/iMienShiang/build/Debug-iphonesimulator/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/DerivedSources/i386 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/DerivedSources -include /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-bmjwbzgaomuxujgofjfqtuzykydp/iMienShiang_Prefix.pch -c /Users/hongliu/iMienShiang/Classes/iMienShiangAppDelegate.m -o /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/iMienShiangAppDelegate.o0#
+
+CCompileC build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/main.o /Users/hongliu/iMienShiang/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309705948.344853
+e309705948.474511
+r1
+xCompileC
+xbuild/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/main.o
+x/Users/hongliu/iMienShiang/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Compile /Users/hongliu/iMienShiang/main.m309705948#309705948#0(0"0(0#0#33"/Users/hongliu/iMienShiang/main.m8615645664#1924"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphonesimulator -I/Users/hongliu/iMienShiang/build/Debug-iphonesimulator/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/DerivedSources/i386 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/DerivedSources -include /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-bmjwbzgaomuxujgofjfqtuzykydp/iMienShiang_Prefix.pch -c /Users/hongliu/iMienShiang/main.m -o /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/main.o0#
+
+CCompileC build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/photoAddingController.o /Users/hongliu/iMienShiang/Classes/../photoAddingController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309705948.473046
+e309705948.529815
+r1
+xCompileC
+xbuild/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/photoAddingController.o
+x/Users/hongliu/iMienShiang/Classes/../photoAddingController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/hongliu/iMienShiang/Classes/../photoAddingController.m309705948#309705948#0(0"0(0#0#61"/Users/hongliu/iMienShiang/Classes/../photoAddingController.m8615231872#1969"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphonesimulator -I/Users/hongliu/iMienShiang/build/Debug-iphonesimulator/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/DerivedSources/i386 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/DerivedSources -include /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-bmjwbzgaomuxujgofjfqtuzykydp/iMienShiang_Prefix.pch -c /Users/hongliu/iMienShiang/Classes/../photoAddingController.m -o /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/photoAddingController.o0#
+
+CCompileC build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/photoAddingController.o /Users/hongliu/iMienShiang/photoAddingController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/raceSettingController.o /Users/hongliu/iMienShiang/Classes/../raceSettingController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309705948.347395
+e309705948.472921
+r0
+xCompileC
+xbuild/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/raceSettingController.o
+x/Users/hongliu/iMienShiang/Classes/../raceSettingController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/hongliu/iMienShiang/Classes/../raceSettingController.m:9:
+o/Users/hongliu/iMienShiang/Classes/../raceSettingController.h:18: error: no type or storage class may be specified here before 'protocol'
+o/Users/hongliu/iMienShiang/Classes/../raceSettingController.h:22: confused by earlier errors, bailing out
+lSLF07#2@69"Compile /Users/hongliu/iMienShiang/Classes/../raceSettingController.m309705948#309705948#0(331"In file included from /Users/hongliu/iMienShiang/Classes/../raceSettingController.m:9:/Users/hongliu/iMienShiang/Classes/../raceSettingController.h:18: error: no type or storage class may be specified here before 'protocol'/Users/hongliu/iMienShiang/Classes/../raceSettingController.h:22: confused by earlier errors, bailing out2(4@64"No type or storage class may be specified here before 'protocol'309705948#87#138#2(7@83"In file included from /Users/hongliu/iMienShiang/Classes/../raceSettingController.m309705948#18446744073709551615#0#0(6@61"/Users/hongliu/iMienShiang/Classes/../raceSettingController.m309702865#9#0#9#0#0"0(13@129"No type or storage class may be specified here before 'protocol' in /Users/hongliu/iMienShiang/Classes/../raceSettingController.h309705948#18446744073709551615#0#0(6@61"/Users/hongliu/iMienShiang/Classes/../raceSettingController.h309705906#18#0#18#0#0"0(6@61"/Users/hongliu/iMienShiang/Classes/../raceSettingController.h309705906#18#0#18#0#0"0(4@39"Confused by earlier errors, bailing out309705948#225#106#2(7@83"In file included from /Users/hongliu/iMienShiang/Classes/../raceSettingController.m309705948#18446744073709551615#0#0(6@61"/Users/hongliu/iMienShiang/Classes/../raceSettingController.m309702865#9#0#9#0#0"0(13@104"Confused by earlier errors, bailing out in /Users/hongliu/iMienShiang/Classes/../raceSettingController.h309705948#18446744073709551615#0#0(6@61"/Users/hongliu/iMienShiang/Classes/../raceSettingController.h309705906#22#0#22#0#0"0(6@61"/Users/hongliu/iMienShiang/Classes/../raceSettingController.h309705906#22#0#22#0#39"confused by earlier errors, bailing out0(0#0#61"/Users/hongliu/iMienShiang/Classes/../raceSettingController.m8616385248#1969"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphonesimulator -I/Users/hongliu/iMienShiang/build/Debug-iphonesimulator/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/DerivedSources/i386 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/DerivedSources -include /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-bmjwbzgaomuxujgofjfqtuzykydp/iMienShiang_Prefix.pch -c /Users/hongliu/iMienShiang/Classes/../raceSettingController.m -o /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/raceSettingController.o1#
+
+CCompileC build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/raceSettingController.o /Users/hongliu/iMienShiang/raceSettingController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/settingController.o /Users/hongliu/iMienShiang/Classes/../settingController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309705948.346457
+e309705948.470641
+r0
+xCompileC
+xbuild/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/settingController.o
+x/Users/hongliu/iMienShiang/Classes/../settingController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/hongliu/iMienShiang/Classes/../settingController.m:9:
+o/Users/hongliu/iMienShiang/Classes/../settingController.h:13: error: cannot find protocol declaration for 'raceSettingControllerDelegate'
+o/Users/hongliu/iMienShiang/Classes/../settingController.m: In function '-[settingController setRace:]':
+o/Users/hongliu/iMienShiang/Classes/../settingController.m:54: error: 'raceSettingController' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/Classes/../settingController.m:54: error: (Each undeclared identifier is reported only once
+o/Users/hongliu/iMienShiang/Classes/../settingController.m:54: error: for each function it appears in.)
+o/Users/hongliu/iMienShiang/Classes/../settingController.m:54: error: 'controller' undeclared (first use in this function)
+o/Users/hongliu/iMienShiang/Classes/../settingController.m: At top level:
+o/Users/hongliu/iMienShiang/Classes/../settingController.m:70: error: expected ')' before 'raceSettingController'
+lSLF07#2@65"Compile /Users/hongliu/iMienShiang/Classes/../settingController.m309705948#309705948#0(988"In file included from /Users/hongliu/iMienShiang/Classes/../settingController.m:9:/Users/hongliu/iMienShiang/Classes/../settingController.h:13: error: cannot find protocol declaration for 'raceSettingControllerDelegate'/Users/hongliu/iMienShiang/Classes/../settingController.m: In function '-[settingController setRace:]':/Users/hongliu/iMienShiang/Classes/../settingController.m:54: error: 'raceSettingController' undeclared (first use in this function)/Users/hongliu/iMienShiang/Classes/../settingController.m:54: error: (Each undeclared identifier is reported only once/Users/hongliu/iMienShiang/Classes/../settingController.m:54: error: for each function it appears in.)/Users/hongliu/iMienShiang/Classes/../settingController.m:54: error: 'controller' undeclared (first use in this function)/Users/hongliu/iMienShiang/Classes/../settingController.m: At top level:/Users/hongliu/iMienShiang/Classes/../settingController.m:70: error: expected ')' before 'raceSettingController'5(4@68"Cannot find protocol declaration for 'raceSettingControllerDelegate'309705948#83#138#2(7@79"In file included from /Users/hongliu/iMienShiang/Classes/../settingController.m309705948#18446744073709551615#0#0(6@57"/Users/hongliu/iMienShiang/Classes/../settingController.m309705944#9#0#9#0#0"0(13@129"Cannot find protocol declaration for 'raceSettingControllerDelegate' in /Users/hongliu/iMienShiang/Classes/../settingController.h309705948#18446744073709551615#0#0(6@57"/Users/hongliu/iMienShiang/Classes/../settingController.h309704751#13#0#13#0#0"0(6@57"/Users/hongliu/iMienShiang/Classes/../settingController.h309704751#13#0#13#0#0"0(4@63"'raceSettingController' undeclared (first use in this function)309705948#325#133#0(6@57"/Users/hongliu/iMienShiang/Classes/../settingController.m309705944#54#0#54#0#43"'*' undeclared (first use in this function)0(4@52"'controller' undeclared (first use in this function)309705948#680#122#0(6@57"/Users/hongliu/iMienShiang/Classes/../settingController.m309705944#54#0#54#0#43"'*' undeclared (first use in this function)0(23@13"At top level:309705948#802#73#0(6@57"/Users/hongliu/iMienShiang/Classes/../settingController.m309705944#0#0#0#0#0"0(4@43"Expected ')' before 'raceSettingController'309705948#875#113#0(6@57"/Users/hongliu/iMienShiang/Classes/../settingController.m309705944#70#0#70#0#19"expected * before *0(0#0#57"/Users/hongliu/iMienShiang/Classes/../settingController.m8616929696#1961"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphonesimulator -I/Users/hongliu/iMienShiang/build/Debug-iphonesimulator/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/DerivedSources/i386 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/DerivedSources -include /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-bmjwbzgaomuxujgofjfqtuzykydp/iMienShiang_Prefix.pch -c /Users/hongliu/iMienShiang/Classes/../settingController.m -o /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/settingController.o1#
+
+CCompileC build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/Objects-normal/i386/settingController.o /Users/hongliu/iMienShiang/settingController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/hongliu/iMienShiang/Classes/../raceSettingController.xib
+s309705946.855830
+e309705947.268937
+r1
+xCompileXIB
+x/Users/hongliu/iMienShiang/Classes/../raceSettingController.xib
+lSLF07#2@47"CompileXIB Classes/../raceSettingController.xib309705946#309705947#0(0"0(0#0#63"/Users/hongliu/iMienShiang/Classes/../raceSettingController.xib8616225216#633"    cd /Users/hongliu/iMienShiang    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/hongliu/iMienShiang/build/Debug-iphonesimulator/iMienShiang.app/raceSettingController.nib /Users/hongliu/iMienShiang/Classes/../raceSettingController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/hongliu/iMienShiang/MainWindow.xib
+s309705946.853713
+e309705947.261493
+r1
+xCompileXIB
+x/Users/hongliu/iMienShiang/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib309705946#309705947#0(0"0(0#0#41"/Users/hongliu/iMienShiang/MainWindow.xib8616807168#600"    cd /Users/hongliu/iMienShiang    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/hongliu/iMienShiang/build/Debug-iphonesimulator/iMienShiang.app/MainWindow.nib /Users/hongliu/iMienShiang/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/hongliu/iMienShiang/ageSettingController.xib
+s309705946.856533
+e309705947.262371
+r1
+xCompileXIB
+x/Users/hongliu/iMienShiang/ageSettingController.xib
+lSLF07#2@35"CompileXIB ageSettingController.xib309705946#309705947#0(0"0(0#0#51"/Users/hongliu/iMienShiang/ageSettingController.xib8615478016#620"    cd /Users/hongliu/iMienShiang    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/hongliu/iMienShiang/build/Debug-iphonesimulator/iMienShiang.app/ageSettingController.nib /Users/hongliu/iMienShiang/ageSettingController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/hongliu/iMienShiang/photoAddingController.xib
+s309705947.261607
+e309705947.575335
+r1
+xCompileXIB
+x/Users/hongliu/iMienShiang/photoAddingController.xib
+lSLF07#2@36"CompileXIB photoAddingController.xib309705947#309705947#0(0"0(0#0#52"/Users/hongliu/iMienShiang/photoAddingController.xib8616388704#622"    cd /Users/hongliu/iMienShiang    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/hongliu/iMienShiang/build/Debug-iphonesimulator/iMienShiang.app/photoAddingController.nib /Users/hongliu/iMienShiang/photoAddingController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/hongliu/iMienShiang/raceSettingController.xib
+r0
+
+CCompileXIB /Users/hongliu/iMienShiang/settingController.xib
+s309705946.855141
+e309705947.440007
+r1
+xCompileXIB
+x/Users/hongliu/iMienShiang/settingController.xib
+lSLF07#2@32"CompileXIB settingController.xib309705946#309705947#0(0"0(0#0#48"/Users/hongliu/iMienShiang/settingController.xib8615252672#614"    cd /Users/hongliu/iMienShiang    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/hongliu/iMienShiang/build/Debug-iphonesimulator/iMienShiang.app/settingController.nib /Users/hongliu/iMienShiang/settingController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCpResource build/Debug-iphonesimulator/iMienShiang.app/arrow.png arrow.png
+s309705947.262425
+e309705947.276915
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iMienShiang.app/arrow.png
+xarrow.png
+lSLF07#2@14"Copy arrow.png309705947#309705947#0(0"0(0#0#36"/Users/hongliu/iMienShiang/arrow.png8616346528#483"    cd /Users/hongliu/iMienShiang    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/hongliu/iMienShiang/arrow.png /Users/hongliu/iMienShiang/build/Debug-iphonesimulator/iMienShiang.app0#
+
+CGenerateDSYMFile /Users/hongliu/iMienShiang/build/Debug-iphonesimulator/iMienShiang.app.dSYM /Users/hongliu/iMienShiang/build/Debug-iphonesimulator/iMienShiang.app/iMienShiang
+r0
+
+CLd /Users/hongliu/iMienShiang/build/Debug-iphonesimulator/iMienShiang.app/iMienShiang normal i386
+r0
+
+CProcessInfoPlistFile /Users/hongliu/iMienShiang/build/Debug-iphonesimulator/iMienShiang.app/Info.plist iMienShiang-Info.plist
+s309705946.806280
+e309705946.853642
+r1
+xProcessInfoPlistFile
+x/Users/hongliu/iMienShiang/build/Debug-iphonesimulator/iMienShiang.app/Info.plist
+xiMienShiang-Info.plist
+lSLF07#2@30"Process iMienShiang-Info.plist309705946#309705946#0(0"0(0#0#49"/Users/hongliu/iMienShiang/iMienShiang-Info.plist29555319236657264#517"    cd /Users/hongliu/iMienShiang    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility iMienShiang-Info.plist -genpkginfo /Users/hongliu/iMienShiang/build/Debug-iphonesimulator/iMienShiang.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/hongliu/iMienShiang/build/Debug-iphonesimulator/iMienShiang.app/Info.plist0#
+
+CProcessPCH /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-bmjwbzgaomuxujgofjfqtuzykydp/iMienShiang_Prefix.pch.gch iMienShiang_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s309705947.575549
+e309705948.344722
+r1
+xProcessPCH
+x/var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-bmjwbzgaomuxujgofjfqtuzykydp/iMienShiang_Prefix.pch.gch
+xiMienShiang_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile iMienShiang_Prefix.pch309705947#309705948#0(0"0(0#0#49"/Users/hongliu/iMienShiang/iMienShiang_Prefix.pch8615761568#1824"    cd /Users/hongliu/iMienShiang    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-generated-files.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-own-target-headers.hmap -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-all-target-headers.hmap -iquote /Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/iMienShiang-project-headers.hmap -F/Users/hongliu/iMienShiang/build/Debug-iphonesimulator -I/Users/hongliu/iMienShiang/build/Debug-iphonesimulator/include -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/DerivedSources/i386 -I/Users/hongliu/iMienShiang/build/iMienShiang.build/Debug-iphonesimulator/iMienShiang.build/DerivedSources -c /Users/hongliu/iMienShiang/iMienShiang_Prefix.pch -o /var/folders/SN/SNeGctrOF2aAJENcsPEmAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMienShiang_Prefix-bmjwbzgaomuxujgofjfqtuzykydp/iMienShiang_Prefix.pch.gch0#
+
+CTouch /Users/hongliu/iMienShiang/build/Debug-iphonesimulator/iMienShiang.app
+r0
+
